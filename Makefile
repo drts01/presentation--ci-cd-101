@@ -11,7 +11,7 @@ pull-repo:
 	@git pull upstream master
 
 pull-js:
-	@which node && npm install || echo 'ERROR: Node.js must be installed'
+	@which node > /dev/null && npm install || echo 'ERROR: Node.js must be installed'
 
 update: pull-repo pull-js
 
