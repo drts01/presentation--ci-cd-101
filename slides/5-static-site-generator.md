@@ -1,6 +1,11 @@
+<!-- section data-markdown="example.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:"></section -->
 # Static Site Generator
-<section>
+<section >
 A website "compiler" that applies styling to content.
+
+Note:
+Lets make things more interesting.
+gh-pages uses Jekyll
 </section>
 
 <section>
