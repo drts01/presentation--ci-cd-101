@@ -1,6 +1,6 @@
 # CI / CD
 <section>
-## Continous Integration and Continous Deployment
+## Continuous Integration and Continuous Deployment
 
 Practices to build better code, faster.
 
@@ -15,7 +15,7 @@ Practices to build better code, faster.
 <aside class="notes">
 What is CI/CD:
 * Easier to debug
-* Verified commited code
+* Verified committed code
 </aside>
 </section>
 <!-- -->
