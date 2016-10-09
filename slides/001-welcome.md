@@ -6,3 +6,5 @@ Note:
 # Welcome
 ## How to DevOp
 ### Using CI / CD to build a personal site.
+
+A simple, but hopefully usefully example.

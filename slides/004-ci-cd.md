@@ -2,13 +2,18 @@
 <section>
 ## Continuous Integration and Continuous Deployment
 
-Practices to build better code, faster.
+Why: Practices to build better code, faster.
+
+What: Automate testing, code integration, and deployment.
 
 <aside class="notes">
+We can to automate the process after we have written some code to advance through the "pipeline" to production.
+in-time feedback
 </aside>
 </section>
 <!-- -->
 <section>
+Allows us to:
 * Small changes = More manage code
 * Automated testing = More reliable code
 
