@@ -4,6 +4,7 @@
 
 A system that records changes over time so that you can refer back to a previous.
 <aside class="notes">
+* Changes should small: makes debugging and code audit easier.
 </aside>
 </section>
 <!-- -->
