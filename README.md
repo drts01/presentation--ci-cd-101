@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/CMeza99/presentation--ci-cd-101.svg?branch=master)](https://travis-ci.org/CMeza99/presentation--ci-cd-101)
+
 # presentation--ci-cd-101
 Learning Devops by building static sites
 
