@@ -1,4 +1,4 @@
-# CI / CD
+# What is CI?
 <section>
 ## Continuous Integration and Continuous Deployment
 
@@ -32,4 +32,12 @@ What is CI/CD:
 </aside>
 </section>
 <!-- -->
+<!--
+* https://www.thoughtworks.com/continuous-integration
+* https://www.agilealliance.org/glossary/continuous-integration/
+* https://aws.amazon.com/devops/continuous-integration/
 
+* https://www.thoughtworks.com/continuous-delivery
+* https://www.agilealliance.org/glossary/continuous-deployment/
+* https://aws.amazon.com/devops/continuous-delivery/
+-->

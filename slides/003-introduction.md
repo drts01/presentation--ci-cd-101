@@ -1,22 +1,21 @@
 # Objective
 <section>
-## Familiarity with CI / CD practices
+## Overview
 
-  * What
-  * Why
-  * How
+Understand an automated workflow and implementation<br>
+to build, deploy, test, and release software.
 
 <aside class="notes">
-What, Why, How to CI/CD
+* What, Why, How to CI/CD
 * Basic concepts of a CI / CD process
-* Brief overview of tools being used
 </aside>
 </section>
 <!-- -->
-<section>
-## Use Case
 
-Personal site/blog deployment
+<section>
+## Our Project
+
+Build a website with a static-site generator.
 
 <aside class="notes">
 * How you can use CI/CD today
@@ -24,6 +23,19 @@ Personal site/blog deployment
 * Piratical and use today
 * Assume a minimal level of comfortably with scripting
   * i.e. Understand what a variable is
+</aside>
+</section>
+<!-- -->
+
+<section>
+## Tools and Concepts
+
+* Version Control
+* CI Software
+* Testing
+
+<aside class="notes">
+* Brief overview of tools being used
 </aside>
 </section>
 <!-- -->
