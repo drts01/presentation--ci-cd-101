@@ -1,10 +1,12 @@
-# Continuous Deployment for Personal Websites
-## An applied introduction to CI / CD pipelines
+# How-to DevOps
+
+<section>
+## Learning CI / CD by<br />Building Personal Websites
+
+</section>
+<!-- -->
 
 Note:
 ## A practical introduction<br>to Continuous Integration and Deployment workflows
-# Welcome
-## How to DevOp
-### Using CI / CD to build a personal site.
-
+## An applied introduction to CI / CD pipelines
 A simple, but hopefully usefully example.

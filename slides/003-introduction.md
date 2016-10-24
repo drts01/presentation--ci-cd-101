@@ -15,7 +15,7 @@ to build, deploy, test, and release software.
 <section>
 ## Our Project
 
-Build a website with a static-site generator.
+Building a website with a static-site generator.
 
 <aside class="notes">
 * How you can use CI/CD today
@@ -30,9 +30,9 @@ Build a website with a static-site generator.
 <section>
 ## Tools and Concepts
 
+* Test Driven Development
 * Version Control
 * CI Software
-* Testing
 
 <aside class="notes">
 * Brief overview of tools being used
