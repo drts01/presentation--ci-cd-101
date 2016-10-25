@@ -16,8 +16,6 @@ A website "compiler" that applies styling to content.
 
 <aside class="notes">
 Our "product", webpage from a static-site generator.
-Lets make things more interesting.
-gh-pages uses Jekyll
 </aside>
 </section>
 <!-- -->
@@ -31,16 +29,25 @@ A popular simple, blog-aware, static site generator.
 
 <aside class="notes">
 It's like a file-based CMS.
+
+<pre><code data-trim data-noescape>
+
 </aside>
 </section>
 <!-- -->
 
-<section>
+<!--
+already:
+have an alias setup: alias jekyll="bundle exec jekyll"
+ruby-install ruby; chruby to latest
+bundle init
+echo "gem 'jekyll'" >> Gemfile
+(Actually may need to use Gemfile created from `jekyll new`)
+or gem install jekyll
 
-<aside class="notes">
-Lets make things more interesting.
-gh-pages uses Jekyll
-</aside>
-</section>
-<!-- -->
+jekyll new demo-site
+jekyll serve
 
+create post
+edit _config.yml: twitter and github
+-->

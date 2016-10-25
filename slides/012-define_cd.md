@@ -6,8 +6,8 @@
 Expands upon CI by delivering code changes to a production-like environment.
 
 <aside class="notes">
-</aside>
 * Staging environments, i.e. QA
+</aside>
 </section>
 <!-- -->
 
@@ -18,6 +18,7 @@ Expands upon CI by delivering code changes to a production-like environment.
 * More Feedback
 
 <aside class="notes">
+* Changes are delivery to staging enviroment.
 * More feed back sooner
 </aside>
 </section>
