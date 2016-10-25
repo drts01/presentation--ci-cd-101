@@ -20,7 +20,8 @@ Building a website with a static-site generator.
 <aside class="notes">
 * How you can use CI/CD today
 * Simple/basic use case
-* Piratical and use today
+  * not much coding to focus on concepts and processes
+* Pratical and use today
 * Assume a minimal level of comfortably with scripting
   * i.e. Understand what a variable is
 </aside>
