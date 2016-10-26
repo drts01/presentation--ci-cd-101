@@ -5,8 +5,23 @@ This is a simplified model to illustrate key concepts. There is no “one-size f
 </aside>
 </section>
 <!-- -->
+
 <section>
+![/continuous-integration-continuous-delivery-and-continuous-deployment.gif](http://www.saviantconsulting.com/images/blog/continuous-integration-continuous-delivery-and-continuous-deployment.gif)
+
+### CI vs CD vs CD
 <aside class="notes">
+</aside>
+</section>
+<!-- -->
+
+<section>
+<pre><code>
+Plan project -> Build -> Test -> Deploy
+</code></pre>
+<aside class="notes">
+* plan project
+* build (starts by writing test)
 </aside>
 </section>
 <!-- -->
