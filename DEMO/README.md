@@ -6,6 +6,9 @@
 1. Make sure Jekyll has already been installed `bundle install`
 1. Alias is setup `alias jekyll='bundle exec jekyll'`
 1. Sign into GitHub and switch to Demo Org
+1. Sign in to Travis-CI
+1. travis gem installed
+1. Already have secret encrypted for VDMS API
 
 ## Demo
 
@@ -43,5 +46,40 @@ jekyll serve
 1. Upload `git push`
 1. View remote repository on GitHub
 
+### Test
+
+1. Jekyll can verify that there is not syntax error in our config.yaml `jekyll doctor`
+1. Can Jekyll build? `jekyll build`
+
+### CI
+
+1. Add our repository to travis-ci
+1. Create .travis.yml
+
+1. Add html-proofer
+
+* https://jekyllrb.com/docs/continuous-integration/
+* https://docs.travis-ci.com/user/languages/ruby/
+
+### CD
+
+* https://developer.github.com/guides/managing-deploy-keys/
+
+1. Create token<br>https://github.com/settings/tokens
+1.
+
+### CD
+
+Deploy to VDMS CDN
+
+## In Action
+
 ### Edit theme
 
+1. Create branch for new theme?
+
+## How My Team is Publishing Docs
+
+### Automation Possibilities
+
+mkdocs
