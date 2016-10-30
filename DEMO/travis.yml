@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.2
+install:
+    - bundle install
+script:
+    - bundle exec jekyll doctor && bundle exec jekyll build --verbose
