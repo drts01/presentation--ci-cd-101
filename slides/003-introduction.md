@@ -18,6 +18,7 @@ to build, deploy, test, and release software.
 Building a website with a static-site generator.
 
 <aside class="notes">
+* I got the idea for this talk because the my team at VDMS is doing this as a way to provide documentation so other teams can use our OpenStack infrastructure.
 * How you can use CI/CD today
 * Simple/basic use case
   * not much coding to focus on concepts and processes
