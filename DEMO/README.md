@@ -9,6 +9,7 @@
 1. Sign in to Travis-CI
 1. travis gem installed
 1. Already have secret encrypted for VDMS API
+1. Have filter setup for Travis and be signed in and in that label
 
 ## Demo
 
