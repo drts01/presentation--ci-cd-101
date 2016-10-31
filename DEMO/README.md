@@ -27,6 +27,9 @@ bundle install
 jekyll serve
 ```
 
+3. Create post
+3. Create post
+3. Create post
 3. Edit config:
   * Twitter
   * GitHub
