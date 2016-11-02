@@ -1,6 +1,7 @@
 # Tests
 
 <section>
+Verify feature/change
 
 <aside class="notes">
 * Test are what we should really start with.
