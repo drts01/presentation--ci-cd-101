@@ -72,9 +72,14 @@ jekyll serve
 1. Create token<br>https://github.com/settings/tokens
 1.
 
+* https://cesiumjs.org/2016/02/03/Cesium-Website-Continuous-Integration/
+* https://docs.travis-ci.com/user/deployment/script/
+
 ### CD
 
 Deploy to VDMS CDN
+
+* https://docs.travis-ci.com/user/deployment/custom/
 
 ## In Action
 

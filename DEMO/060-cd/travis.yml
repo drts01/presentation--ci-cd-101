@@ -1,0 +1,14 @@
+language: ruby
+rvm:
+  - 2.2
+install:
+    - bundle install
+    - gem install jekyll html-proofer
+script:
+    - bundle exec jekyll doctor && bundle exec jekyll build --verbose
+    - htmlproofer ./_site
+after_success: true
+deploy:
+    provider: script
+    script:
+    - git clone ; git checkout --orphan gh-pages

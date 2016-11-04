@@ -70,6 +70,20 @@ Verify interaction between various software components
 </section>
 <!-- -->
 
+<section>
+## Our Initial Tests
+
+### Lint Test Config File
+jekyll doctor
+
+### Can Our Site Build?
+jekyll build
+
+<aside class="notes">
+</aside>
+</section>
+<!-- -->
+
 <!--
 * https://www.agilealliance.org/glossary/unit-test/
 -->
