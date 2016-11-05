@@ -64,6 +64,7 @@ jekyll serve
 
 * https://jekyllrb.com/docs/continuous-integration/
 * https://docs.travis-ci.com/user/languages/ruby/
+* https://docs.travis-ci.com/user/environment-variables/
 
 ### CD
 
