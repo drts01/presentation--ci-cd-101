@@ -26,7 +26,18 @@ Done work for:
 <!-- -->
 
 <section>
-## I Want to Automate All The Thigs
+### Speaker
+
+* Socal Code Camp 2015
+* SCaLE x
+
+<aside class="notes">
+</aside>
+</section>
+<!-- -->
+
+<section>
+## I Want to Automate All The Things
 <aside class="notes">
 </aside>
 </section>
