@@ -3,7 +3,7 @@
 ## Prep
 
 1. Make sure Ruby is installed<br>Suggest using chruby and ruby-install
-1. Make sure Jekyll has already been installed `bundle install`
+1. Make sure Jekyll, Travis has already been installed `bundle install`
 1. Alias is setup `alias jekyll='bundle exec jekyll'`
 1. Sign into GitHub and switch to Demo Org
 1. Sign in to Travis-CI
