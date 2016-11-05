@@ -66,6 +66,15 @@ jekyll serve
 * https://docs.travis-ci.com/user/languages/ruby/
 * https://docs.travis-ci.com/user/environment-variables/
 
+### Notifications
+
+1. Assuming you manage a "team" on Slack
+1. Add the Travis App in Slack
+1. Choose channel
+1. Add entries to .travis.yml `travis encrypt ...`
+
+* https://my.slack.com/services/new/travis
+
 ### CD
 
 * https://developer.github.com/guides/managing-deploy-keys/
