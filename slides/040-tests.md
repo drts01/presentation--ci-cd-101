@@ -71,15 +71,27 @@ Verify interaction between various software components
 <!-- -->
 
 <section>
-## Our Initial Tests
 
-### Lint Test Config File
-jekyll doctor
+## Lint Test Config File
 
-### Can Our Site Build?
-jekyll build
+` jekyll doctor `
+
+## Verify Site Can Build
+
+` jekyll build `
 
 <aside class="notes">
+</aside>
+</section>
+<!-- -->
+
+<section>
+# Demo
+
+<aside class="notes">
+1. Lint Test Config File<br/>` jekyll doctor `
+1. Verify Site Can Build<br/>` jekyll build `
+
 </aside>
 </section>
 <!-- -->

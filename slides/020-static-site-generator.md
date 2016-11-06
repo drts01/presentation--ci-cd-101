@@ -38,8 +38,6 @@ It's like a file-based CMS.
 ## Demo
 
 <aside class="notes">
-1. # We are using GitHub's version of Jekyll; (Gem = Pkgs; Bundler = pkg manager)<br/>`cat Gemfile`
-
 1. `jekyll new demo-site`
 1. `cd demo-site`
 1. `jekyll serve`
@@ -47,6 +45,8 @@ It's like a file-based CMS.
 1. edit config.yml: twitter and github<br/>`cp ../020-project/_config.yml`
 1. Helper script so I dont have to type out the header by hand.<br/>create post: `../jekyll-post-helper.sh "New Post"`
 1. `jekyll serve`
+
+1. We are using GitHub's version of Jekyll; (Gem = Pkgs; Bundler = pkg manager)<br/>`cp ../020-project/Gemfile .; cat Gemfile`
 
 </aside>
 </section>

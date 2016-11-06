@@ -6,13 +6,13 @@ env:
 # - GIT_COMMITTER_EMAIL=
 language: ruby
 rvm:
-  - 2.2
+    - 2.2
 install:
     - bundle install
     - gem install jekyll html-proofer
 script:
     - bundle exec jekyll doctor && bundle exec jekyll build --verbose
-    - htmlproofer ./_site
+    - htmlproofer ./_site --allow-hash-href
 after_success: true
 deploy:
     provider: script

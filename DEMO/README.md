@@ -35,18 +35,24 @@ jekyll serve
 ### Version Control
 
 1. Create repository on GitHub<br>(Must create account)<br>For simplicity no README.md or .gitiginore
-1. Copy repository url
-1. Clone a local copy of our repository `cd ..; git clone`
-1. See status of our repository `git status`
-1. Move files to our repository `mv ??? ../demo-site .
-1. Lets check the status of our repository again. `git status`
-1. Add our files `git add --all --verbose`<br>(Verbose so we can see whats happening)
-1. Lets check the status of our repository again. `git status`
-1. Commit our files `git commit --message='first commit')
-1. Lets check the status of our repository again. `git status`
-1. We can view the change history `git log`
-1. Upload `git push`
-1. View remote repository on GitHub
+```
+git init # create empty repository; has no content
+git log # no history
+git status # no files being tracked by version control
+git add --all --verbose # Verbose so we can see whats happening
+git status # can see files are "staged" but not checked in
+git commit --message "first commit" # checking in al changes
+git status # everything is upto date
+git log # can see history; git tracks changes with hashes
+git remote # URLs to other copies of your repository
+git remote add origin https://github.com/DIGITALR00TS-demo/socal-code-camp.git # origin is an alias for the remote repository URL, in our case on GitHub.
+git remote show origin # Head branch unknown because remote repository is not linked to local repositor; Branch is a pointer to the "working" file
+git branch # currently we only have master
+git push --set-upstream origin master # link local 'master' to remote 'origin'
+git remote show origin # Git now know how to relate the remote and the local repositories.
+git branch --all # We can see the pointers for the remote repositories as well.
+```
+1. We can see that `git push` sent our project to the remote repository on GitHub
 
 ### Test
 
@@ -56,7 +62,7 @@ jekyll serve
 ### CI
 
 1. Add our repository to travis-ci
-1. Create .travis.yml
+1. Create .travis.yml<br/>`cp ../050-ci/travis.yml .travis.yml`
 
 1. Add html-proofer
 
