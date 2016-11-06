@@ -1,9 +1,9 @@
 env:
-- EMAIL='cmeza99@users.noreply.github.com'
-- GIT_AUTHOR_NAME=
-- GIT_AUTHOR_EMAIL
-- GIT_COMMITTER_NAME
-- GIT_COMMITTER_EMAIL
+# - EMAIL='cmeza99@users.noreply.github.com'
+# - GIT_AUTHOR_NAME=
+# - GIT_AUTHOR_EMAIL=
+# - GIT_COMMITTER_NAME=
+# - GIT_COMMITTER_EMAIL=
 language: ruby
 rvm:
   - 2.2
