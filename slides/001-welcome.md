@@ -6,6 +6,10 @@
 <br />
 ## Learning CI / CD by<br />Building Personal Websites
 
+<aside class="notes">
+* How many people are familiar with git?
+* How many people know what Travis-CI is?
+</aside>
 </section>
 <!-- -->
 
