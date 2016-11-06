@@ -24,16 +24,13 @@
 ```bash
 jekyll new demo-site
 cd demo-site
-bundle install
 jekyll serve
 ```
 
-3. Create post
-3. Create post
-3. Create post
 3. Edit config:
   * Twitter
   * GitHub
+3. create post: `../jekyll-post-helper.sh "New Post"`
 
 ### Version Control
 
