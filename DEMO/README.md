@@ -7,6 +7,7 @@
 1. Alias is setup `alias jekyll='bundle exec jekyll'`
 1. Sign into GitHub and switch to Demo Org
 1. Sign in to Travis-CI
+1. Sign in Slack on phone and laptop
 1. travis gem installed
 1. Already have secret encrypted for VDMS API
 1. Have filter setup for Travis and be signed in and in that label
