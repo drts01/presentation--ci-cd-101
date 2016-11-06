@@ -9,6 +9,7 @@
 1. Sign in to Travis-CI
 1. Sign in Slack on phone and laptop
 1. travis gem installed
+1. have Slack API token in env var<br/>`export $SLACK_TOKEN=''`
 1. Already have secret encrypted for VDMS API
 1. Have filter setup for Travis and be signed in and in that label
 
@@ -75,7 +76,7 @@ git branch --all # We can see the pointers for the remote repositories as well.
 1. Assuming you manage a "team" on Slack
 1. Add the Travis App in Slack
 1. Choose channel
-1. Add entries to .travis.yml `travis encrypt ...`
+1. Add entries to .travis.yml `travis encrypt "digitalr00ts:${SLACK_TOKEN}" --add notifications.slack`
 
 * https://my.slack.com/services/new/travis
 

@@ -47,9 +47,9 @@ travis encrypt "digitalr00ts:<API TOKEN>" --add notifications.slack
 ## Demo
 
 <aside class="notes">
-1. `cp ../060-notify/travis.yml .travis.yml`
-1. `git add .travis.yml`
+1. Add notification to .travis.yml `travis encrypt "digitalr00ts:${SLACK_TOKEN}" --add notifications.slack`
 1. `cat .travis.yml`
+1. `git add .travis.yml`
 1. `git commit --message='add slack integration'`
 1. `git push`
 1. `git log`
