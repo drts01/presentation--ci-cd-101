@@ -7,6 +7,7 @@
 
 <aside class="notes">
 * Slides for demo
+
 </aside>
 </section>
 <!-- -->
@@ -35,7 +36,7 @@
 ## Encrypt API Token
 
 ```
-travis encrypt "digitalr00ts:<API TOKEN>" --add notifications.slack
+travis encrypt "<TEAM_NAME>:<API_TOKEN>" --add notifications.slack
 ```
 
 <aside class="notes">
@@ -56,3 +57,5 @@ travis encrypt "digitalr00ts:<API TOKEN>" --add notifications.slack
 
 </aside>
 </section>
+<!-- -->
+
