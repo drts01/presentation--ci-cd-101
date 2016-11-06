@@ -1,9 +1,3 @@
-env:
-- EMAIL='cmeza99@users.noreply.github.com'
-- GIT_AUTHOR_NAME=
-- GIT_AUTHOR_EMAIL
-- GIT_COMMITTER_NAME
-- GIT_COMMITTER_EMAIL
 language: ruby
 rvm:
   - 2.2
@@ -13,16 +7,6 @@ install:
 script:
     - bundle exec jekyll doctor && bundle exec jekyll build --verbose
     - htmlproofer ./_site
-after_success: true
-deploy:
-    provider: script
-    script:
-        # - git config user.email
-        - git checkout -B gh-pages
-        - git merge master
-        # - git remote set-url origin git@github.com:$TRAVIS_REPO_SLUG.git
-        # - git remote add origin-pages https://${GH_TOKEN}@github.com/TRAVIS_REPO_SLUG.git
-        - git push
 notifications:
   slack:
     secure: tmJ2jC17nbP1jJK7ip9WkqOFy/uIbmVxeH2enyc1UU5uD2yncxt6tRexVYgaL6yqlaB3sEazSRlworVhiL0lvT4HLCUAsYIVXlTQCwdZP9OmdGBO1F2TWnfINNEbYmpo1pP479gHUKayS1lpmCMJTPTL52Nho5ikg1ZOKGgMvUHUA24AKnYbuvSxV2bo/p0bmZFuqbnY1yurw7WO2nSHye102Iwd20OYvTmPPhEVFtmrH704TDzUnGMhFuahbE8IehgwotZjeCDaHVjaE8g8L7c15FyiI9M9fivXlI9tHC+3uWncRUlVEuGIWflvh9T773zNURB+9u5F6nWvAZYZqEmTHweVO5jWP7/xUoIQ4JHE+kOq2mFkXaPFdUSkqGQjrRrjDXeaA1PndT3lvkYAgnC/Rtya70YilGiEHob/umQiqLYYDDnpjQm/9C9aK7mSl+vxp/V6L77BbeDV2trOJqftkNM+qCyo76j3ldAfUrbhem7Sx5GVkbx63OpPZJ18ehgsDQD8M9+5XSTp/xxUXH0DGoIZC1O+4FeUsXSY4a2fdKL2nfKzsBj3u0rCOGlCmqaBHCKai7CAZYuRT5KA1sqUCkoqwho9x05qgrggvPSNKr9lGLzTXauSS1warl6BVO2ZTnfxTgZPRka+YTmDsOxNT4VeWbSvzoZqhDXrgns=
