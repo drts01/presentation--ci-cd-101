@@ -53,19 +53,6 @@ Continuous the automation to deploy to production.
 </section>
 <!-- -->
 
-<section>
-<br />
-## Workflow <!-- .element: style="margin-bottom:-.7em" -->
-
-![cd.png](img/cd.png) <!-- .element: style="margin-bottom:-.5em;height:12em;" -->
-<br />
-https://johannormen.com/2016/02/12/why-microservices-and-continuous-deployment-delivery-is-win-win/ <!-- .element: style="font-size:small" -->
-
-<aside class="notes">
-</aside>
-</section>
-<!-- -->
-
 <!--
 * https://www.thoughtworks.com/continuous-delivery
 * https://www.agilealliance.org/glossary/continuous-deployment/

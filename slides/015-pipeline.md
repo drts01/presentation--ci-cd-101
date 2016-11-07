@@ -1,7 +1,12 @@
-# Deployment Pipeline
+# Pipeline
 
 <section>
-![pipeline](http://image.slidesharecdn.com/webinarusingjenkinsxltestviewfinal-150615171204-lva1-app6892/95/webinar-using-jenkins-xl-testview-to-ensure-quality-in-continuous-delivery-7-638.jpg?cb=1434388383)
+
+<!-- .element: data-background-image="img/pipeline.svg" data-background-size="contain" -->
+
+<div style="height:17em"> </div>
+
+http://www.slideshare.net/xebialabs/webinar-using-jenkins-xl-testview-to-ensure-quality-in-continuous-delivery <!-- .element: style="font-size:small; position: absolute; right:0" -->
 
 <aside class="notes">
 This is a simplified model to illustrate key concepts. There is no “one-size fits all” model. Different project could require more complex build and deployment processes. Also, in most situation better test coverage is desirable.
