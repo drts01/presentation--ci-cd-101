@@ -3,11 +3,13 @@
 ## Overview
 
 Understand an automated workflow and implementation<br>
-to build, deploy, test, and release software.
+to build, test, and deploy a project.
+
+** What, Why, How to CI/CD ** <!-- .element: class="fragment" -->
 
 <aside class="notes">
-* What, Why, How to CI/CD
 * Basic concepts of a CI / CD process
+* What, Why, How to CI/CD
 </aside>
 </section>
 <!-- -->
@@ -15,16 +17,13 @@ to build, deploy, test, and release software.
 <section>
 ## Our Project
 
-Building a website with a static-site generator.
+Build and deploy a website<br /> with a static-site generator.
 
 <aside class="notes">
-* I got the idea for this talk because the my team at VDMS is doing this as a way to provide documentation so other teams can use our OpenStack infrastructure.
-* How you can use CI/CD today
-* Simple/basic use case
-  * not much coding to focus on concepts and processes
-* Pratical and use today
-* Assume a minimal level of comfortably with scripting
-  * i.e. Understand what a variable is
+* Idea this talk came from how my team is publishing documentation.
+* Goal:
+  * Focus on concepts and workflow;<br/>avoid "coding"
+
 </aside>
 </section>
 <!-- -->
@@ -32,9 +31,11 @@ Building a website with a static-site generator.
 <section>
 ## Tools and Concepts
 
-* Test Driven Development
-* Version Control
-* CI Software
+* Jekyll -- Static-site Generator
+* Git -- Version Control
+* Travis-CI -- CI Software
+* Slack -- Notifications
+* GitHub Pages -- Publish/Deploy
 
 <aside class="notes">
 * Brief overview of tools being used

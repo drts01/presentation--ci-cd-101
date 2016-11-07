@@ -6,6 +6,7 @@ Verify feature/change
 <aside class="notes">
 * Test are what we should really start with.
 * In our simplified model we have grouped all the test together.
+
 </aside>
 </section>
 <!-- -->
@@ -22,6 +23,7 @@ Verify an individual components
 <aside class="notes">
 * Test isolated chucks of code
 * Can verify a module operates as expected
+
 </aside>
 </section>
 <!-- -->
@@ -66,32 +68,6 @@ Verify interaction between various software components
 <aside class="notes">
 * -
 * Test that bug does not return after being resolved
-</aside>
-</section>
-<!-- -->
-
-<section>
-
-## Lint Test Config File
-
-` jekyll doctor `
-
-## Verify Site Can Build
-
-` jekyll build `
-
-<aside class="notes">
-</aside>
-</section>
-<!-- -->
-
-<section>
-# Demo
-
-<aside class="notes">
-1. Lint Test Config File<br/>` jekyll doctor `
-1. Verify Site Can Build<br/>` jekyll build `
-
 </aside>
 </section>
 <!-- -->

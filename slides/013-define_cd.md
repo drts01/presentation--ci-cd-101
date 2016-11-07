@@ -7,6 +7,7 @@ Expands upon CI by delivering code changes to a production-like environment.
 
 <aside class="notes">
 * Staging environments, i.e. QA
+
 </aside>
 </section>
 <!-- -->
@@ -18,8 +19,9 @@ Expands upon CI by delivering code changes to a production-like environment.
 * More Feedback
 
 <aside class="notes">
-* Changes are delivery to staging enviroment.
-* More feed back sooner
+* Changes are delivered to staging environment.
+* Gain more insight than running test in an isolated environment
+
 </aside>
 </section>
 <!-- -->
@@ -30,8 +32,8 @@ Expands upon CI by delivering code changes to a production-like environment.
 Continuous the automation to deploy to production.
 
 <aside class="notes">
-* Need high confidence in test coverage
 * Automating acceptance testing to promote code through pre-productions/staging environment
+
 </aside>
 </section>
 <!-- -->
@@ -44,7 +46,22 @@ Continuous the automation to deploy to production.
 
 <aside class="notes">
 * Updates are released immediately.
-* Instant costumer feedback. Positive and negative
+* Instant costumer feedback. Positive / negative
+* Good test coverage and high confidence required
+
+</aside>
+</section>
+<!-- -->
+
+<section>
+<br />
+## Workflow <!-- .element: style="margin-bottom:-.7em" -->
+
+![cd.png](img/cd.png) <!-- .element: style="margin-bottom:-.5em;height:12em;" -->
+<br />
+https://johannormen.com/2016/02/12/why-microservices-and-continuous-deployment-delivery-is-win-win/ <!-- .element: style="font-size:small" -->
+
+<aside class="notes">
 </aside>
 </section>
 <!-- -->

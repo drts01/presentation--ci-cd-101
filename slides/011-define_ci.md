@@ -8,6 +8,9 @@ A software development practice where
 - verified by an automated build and test
 
 <aside class="notes">
+* Instead of making large code modification
+* That may or may not have been tested along the way.
+
 </aside>
 </section>
 <!-- -->
@@ -21,10 +24,10 @@ A software development practice where
 * Greater Visibility
 
 <aside class="notes">
-* Every change is automaticly tested
-* making debuging easier
+* Every change is automatically tested
+* making debugging easier
 * also making it easier to refactor.
-* And can track all changes
+* Able to audit all modification.
 </aside>
 </section>
 <!-- -->
