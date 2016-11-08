@@ -1,6 +1,8 @@
+<!-- .slide: data-background-image="img/welcome.png" data-background-size="contain" data-background-position="center" data-background-transition="fade" -->
+
 # How-to DevOps
 
-<section data-background-image="img/welcome.png" data-background-transition="fade"> <!-- .element: style="background-image:url('img/welcome.png'); background-size:contain; background-position:0 2em; background-repeat:no-repeat;" data-background-image="img/welcome.png" data-background-transition="fade" -->
+<section>
 
 <div style="height:11em; display:block"> </div>
 

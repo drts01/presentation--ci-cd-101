@@ -5,6 +5,7 @@ Send us feedback.
 
 <aside class="notes">
 * Notifications can be configured how ever works best for the team's workflow.
+
 </aside>
 </section>
 <!-- -->
@@ -41,6 +42,9 @@ Hosted team communication tool.
 
 <aside class="notes">
 Slack
+
 * Hosted team communication tool.
+
 </aside>
 </section>
+<!-- -->
