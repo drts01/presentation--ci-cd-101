@@ -1,10 +1,12 @@
 # The Project
 
 <section >
-## Building a website
+## Build a website
 
 <aside class="notes">
-* Focus on process and tools
+* Our "product", webpage.
+* Example not overly involved to<br/>Focus on process and tools
+
 </aside>
 </section>
 <!-- -->
@@ -15,7 +17,9 @@
 A website "compiler" that applies styling to content.
 
 <aside class="notes">
-Our "product", webpage from a static-site generator.
+* It will generate html files
+* combining content, templates, styling, other assets.
+
 </aside>
 </section>
 <!-- -->
@@ -28,7 +32,8 @@ Our "product", webpage from a static-site generator.
 A popular simple, blog-aware, static site generator.
 
 <aside class="notes">
-It's like a file-based CMS.
+* We will be using Jekyll.
+* It's like a file-based CMS.
 
 </aside>
 </section>
