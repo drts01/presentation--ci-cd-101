@@ -69,7 +69,3 @@ script:
 </section>
 <!-- -->
 
-<!--
-* [Buildbot](http://buildbot.net/)
-* [AppVeyor](https://www.appveyor.com/)
--->

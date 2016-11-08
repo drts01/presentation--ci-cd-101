@@ -1,11 +1,11 @@
 # Tests
 
 <section>
-Verify feature/change
+Identify errors.
 
 <aside class="notes">
-* Test are what we should really start with.
-* In our simplified model we have grouped all the test together.
+* Attempt detect any issue.
+* Ablity to verify is only as good as our tests.
 
 </aside>
 </section>
@@ -16,13 +16,10 @@ Verify feature/change
 
 Verify an individual components
 
-* Find bugs early
+<aside class="notes">
+* Verify an isolated chucks operates as expected
 * Easier to Refactor
 * Integration is Easier
-
-<aside class="notes">
-* Test isolated chucks of code
-* Can verify a module operates as expected
 
 </aside>
 </section>
@@ -40,6 +37,8 @@ Verify an individual components
 Verify interaction between various software components
 
 <aside class="notes">
+* Make sure the whole thing works together.
+
 </aside>
 </section>
 <!-- -->
@@ -49,29 +48,19 @@ Verify interaction between various software components
 -->
 
 <section>
-## Functional / Acceptance Tests
-
-<aside class="notes">
-</aside>
-</section>
-<!-- -->
-
-<section>
 ## Many Tests
 
 * System Test
 * Regression Test
 * Smoke Test / Sanity Check
 * Canary Test
+* Functional / Acceptance Tests
 * Validation / Feature Test
 
 <aside class="notes">
-* -
-* Test that bug does not return after being resolved
+* Testing requirements will depend on the project.
+
 </aside>
 </section>
 <!-- -->
 
-<!--
-* https://www.agilealliance.org/glossary/unit-test/
--->

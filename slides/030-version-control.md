@@ -7,15 +7,20 @@ A system that records changes over time so that you can refer back to a previous
 
 <aside class="notes">
 * Our software repository
-* Changes should small: makes debugging and code audit easier.
+  * save
+  * track changes
+* modification should be
+  * small
+  * frequent
+* opposed to waiting for 1 large update
 
-</aside>
 </section>
 <!-- -->
 
 <section>
 ## git
-![git logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)
+
+![git logo](img/git.svg) <!-- .element: style="height:5em" -->
 
 A free and open source distributed version control system.
 
@@ -29,11 +34,12 @@ It allows us to track changes and coordinate making modifications with others.
 <section>
 ## GitHub
 
-![Octocat](https://upload.wikimedia.org/wikipedia/commons/8/80/PEO-octocat-0.svg)
+![Octocat](img/octocat.svg) <!-- .element: style="height:5em" -->
 
 Online project hosting using Git.
 
 <aside class="notes">
+Popular and free for opensource projects
 
 </aside>
 </section>

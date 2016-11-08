@@ -25,9 +25,10 @@ A software development practice where
 
 <aside class="notes">
 * Every change is automatically tested
-* making debugging easier
-* also making it easier to refactor.
-* Able to audit all modification.
+* Catch issues faster
+* Easier to refactor
+* Able to track changes
+
 </aside>
 </section>
 <!-- -->

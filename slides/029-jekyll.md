@@ -3,7 +3,7 @@
 <section >
 ## Create New Site
 
-```
+```bash
 jekyll new demo-site
 ```
 
@@ -18,7 +18,7 @@ jekyll new demo-site
 <section >
 ## View Site Locally
 
-```
+```bash
 jekyll serve
 ```
 
@@ -32,7 +32,7 @@ jekyll serve
 <section>
 ## gh-pages version
 
-```
+```ruby
 # Gemfile
 
 source "https://rubygems.org"

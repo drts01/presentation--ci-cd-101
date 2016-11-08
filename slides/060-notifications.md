@@ -1,7 +1,7 @@
 # Notifications
 
 <section>
-Send us feedback.
+Getting the feedback quickly.
 
 <aside class="notes">
 * Notifications can be configured how ever works best for the team's workflow.
@@ -11,26 +11,15 @@ Send us feedback.
 <!-- -->
 
 <section>
-## Email
+## Possibiities
+
+* Email
+* SMS
+* Chat
 
 <aside class="notes">
-</aside>
-</section>
-<!-- -->
+* Can integrate with anything
 
-<section>
-
-<aside class="notes">
-## SMS
-
-</aside>
-</section>
-<!-- -->
-
-<section>
-## Chat
-
-<aside class="notes">
 </aside>
 </section>
 <!-- -->
@@ -38,12 +27,13 @@ Send us feedback.
 <section>
 ## Slack
 
+![slack logo](img/slack.svg) <!-- .element: style="height:4.75em; padding:.25em;" -->
+
 Hosted team communication tool.
 
 <aside class="notes">
-Slack
-
-* Hosted team communication tool.
+* Popular chat service.
+* Freeium
 
 </aside>
 </section>

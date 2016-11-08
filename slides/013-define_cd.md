@@ -16,7 +16,7 @@ Expands upon CI by delivering code changes to a production-like environment.
 ## Benefits
 
 * Faster to Production
-* More Feedback
+* More Feedback Sooner
 
 <aside class="notes">
 * Changes are delivered to staging environment.
@@ -32,7 +32,7 @@ Expands upon CI by delivering code changes to a production-like environment.
 Continuous the automation to deploy to production.
 
 <aside class="notes">
-* Automating acceptance testing to promote code through pre-productions/staging environment
+* Automating acceptance testing to promote code through pre-production/staging environment
 
 </aside>
 </section>
@@ -47,7 +47,7 @@ Continuous the automation to deploy to production.
 <aside class="notes">
 * Updates are released immediately.
 * Instant costumer feedback. Positive / negative
-* Good test coverage and high confidence required
+* Requires good testing coverage
 
 </aside>
 </section>

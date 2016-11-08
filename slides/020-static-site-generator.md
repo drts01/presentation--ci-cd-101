@@ -27,7 +27,7 @@ A website "compiler" that applies styling to content.
 <section>
 ## Jekyll
 
-![Jekyll logo](img/jekyllrb.svg)
+![Jekyll logo](img/jekyllrb.svg) <!-- .element: style="height:5em" -->
 
 A popular simple, blog-aware, static site generator.
 

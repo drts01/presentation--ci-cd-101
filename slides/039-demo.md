@@ -1,12 +1,14 @@
 # Git / GitHub
 
 <section>
-## Create Repository
+## Create Remote Repo
 
 ![git-01-create-repo.png](img/git-01-create-repo.png)
 
 <aside class="notes">
 * Assuming you already have an account.
+* Repository is were we store files for our project.
+* Add a new repository.
 
 </aside>
 </section>
@@ -14,20 +16,21 @@
 
 <section>
 <br/>
-## Name Repository <!-- .element: style="margin-bottom:-.75em" -->
+## Name Remote Repo <!-- .element: style="margin-bottom:-.75em" -->
 
 ![git-02-create-repo.png](img/git-02-create-repo.png) <!-- .element: style="height:11em; margin-bottom:0em" -->
 
 <aside class="notes">
+* Name and create it.
 
 </aside>
 </section>
 <!-- -->
 
 <section>
-## Local Repo
+## Create Local Repo
 
-```
+```bash
 git init
 git add --all
 git commit --message "first commit"
@@ -43,9 +46,9 @@ git commit --message "first commit"
 <!-- -->
 
 <section>
-## Remote Repo
+## Connect Remote Repo
 
-```
+```bash
 git remote add origin https://github.com/DIGITALR00TS-demo/demo.git
 git push --set-upstream origin master
 ```
@@ -63,7 +66,7 @@ git push --set-upstream origin master
 <section>
 ## Useful commands
 
-```
+```bash
 # Show history
 git log
 # Show status of files since last commit

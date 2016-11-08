@@ -22,6 +22,7 @@ branches:
   * Update that branch on GitHub
 * Only run Travis-CI on `master` branch
 * Never run Travis-CI on `gh-pages` branch
+* TRAVIS_REPO_SLUG = env var in travis
 
 </aside>
 </section>
