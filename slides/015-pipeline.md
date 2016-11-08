@@ -1,8 +1,6 @@
 # Pipeline
 
-<section>
-
-<!-- .element: data-background-image="img/pipeline.svg" data-background-size="contain" -->
+<section> <!-- .element: data-background-image="img/pipeline.svg" data-background-size="contain" -->
 
 <div style="height:17em"> </div>
 
@@ -15,16 +13,37 @@ This is a simplified model to illustrate key concepts. There is no “one-size f
 </section>
 <!-- -->
 
-<!--
-* http://www.slideshare.net/xebialabs/webinar-using-jenkins-xl-testview-to-ensure-quality-in-continuous-delivery
--->
+<section> <!-- .element: data-background-image="img/pipeline.svg" data-background-size="contain" -->
+## Continuous Integration
 
-<section>
-![/continuous-integration-continuous-delivery-and-continuous-deployment.gif](http://www.saviantconsulting.com/images/blog/continuous-integration-continuous-delivery-and-continuous-deployment.gif)
-
-### CI vs CD vs CD
+<div style="height:7em"> </div>
 
 <aside class="notes">
+
+</aside>
+</section>
+<!-- -->
+
+<section> <!-- .element: data-background-image="img/pipeline.svg" data-background-size="contain" -->
+## Continuous Delivery
+
+<div style="height:7em"> </div>
+
+<aside class="notes">
+* Release
+
+</aside>
+</section>
+<!-- -->
+
+<section> <!-- .element: data-background-image="img/pipeline.svg" data-background-size="contain" -->
+## Continuous Deployment
+
+<div style="height:7em"> </div>
+
+<aside class="notes">
+* Automating to prod
+
 </aside>
 </section>
 <!-- -->
