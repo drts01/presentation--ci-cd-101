@@ -12,7 +12,6 @@
 * How many people are familiar with git?
 * How many people know what Travis-CI is?
 
-* A practical introduction<br>to Continuous Integration and Deployment workflows
 * An applied introduction to CI / CD pipelines
 * A simple, but hopefully usefully example.
 

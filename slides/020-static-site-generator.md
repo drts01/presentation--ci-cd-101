@@ -4,8 +4,10 @@
 ## Build a website
 
 <aside class="notes">
-* Our "product", webpage.
-* Example not overly involved to<br/>Focus on process and tools
+* Our "product": webpage.
+* Example to focus on
+  * workflow / process
+  * not code
 
 </aside>
 </section>
@@ -17,8 +19,9 @@
 A website "compiler" that applies styling to content.
 
 <aside class="notes">
-* It will generate html files
-* combining content, templates, styling, other assets.
+* Will use static site generator.
+* combining content, templates, styling to
+* compile html.
 
 </aside>
 </section>
@@ -29,10 +32,11 @@ A website "compiler" that applies styling to content.
 
 ![Jekyll logo](img/jekyllrb.svg) <!-- .element: style="height:5em" -->
 
-A popular simple, blog-aware, static site generator.
+A popular, simple blog-aware static site generator.
 
 <aside class="notes">
-* We will be using Jekyll.
+* The tool: Jekyll.
+* popular, simple, blog-aware<br />static site generator.
 * It's like a file-based CMS.
 
 </aside>

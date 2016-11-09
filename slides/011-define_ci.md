@@ -3,13 +3,15 @@
 <section>
 ## Continuous Integration
 
-A software development practice where
-- code changes are small and frequent
-- verified by an automated build and test
+A software development practice<br />where code changes are:
+- automatically built and tested
+- small and frequent<br>
 
 <aside class="notes">
-* Instead of making large code modification
-* That may or may not have been tested along the way.
+* Development practice
+* automate builds and tests
+* small frequent code changes
+  * not periodic large modifications
 
 </aside>
 </section>
@@ -24,10 +26,16 @@ A software development practice where
 * Greater Visibility
 
 <aside class="notes">
-* Every change is automatically tested
-* Catch issues faster
-* Easier to refactor
-* Able to track changes
+Why
+
+* Reduced Risk<br />
+  Quick and Effective Feedback
+  * Every change is automatically verified
+  * Catch issues faster
+* Improve Software Quality
+  * Easier to redactor
+* Greater Visibility
+  * track changes
 
 </aside>
 </section>

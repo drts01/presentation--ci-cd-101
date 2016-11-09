@@ -5,11 +5,12 @@
 Understand an automated workflow and implementation<br>
 to build, test, and deploy a project.
 
-** What, Why, How to CI/CD ** <!-- .element: class="fragment" -->
+** What, Why, How to CI/CD **
 
 <aside class="notes">
-* Basic concepts of a CI / CD process
 * What, Why, How to CI/CD
+* Basic concepts
+* workflow
 </aside>
 </section>
 <!-- -->
@@ -20,9 +21,11 @@ to build, test, and deploy a project.
 Build and deploy a website<br /> with a static-site generator.
 
 <aside class="notes">
-* Idea this talk came from how my team is publishing documentation.
-* Goal:
-  * Focus on concepts and workflow;<br/>avoid "coding"
+* Build and deploy website
+* Idea for talk -  how my team is publishing documentation.
+* This example to:
+  * Focus on concepts and workflow
+  * avoid "coding"
 
 </aside>
 </section>

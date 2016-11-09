@@ -23,7 +23,9 @@ jekyll serve
 ```
 
 <aside class="notes">
-* Generates site and starts a local webserver to view it.
+* To see it
+* Generates site and<br />
+  starts a local webserver to view it.
 
 </aside>
 </section>
@@ -40,8 +42,10 @@ gem 'github-pages', group: :jekyll_plugins
 ```
 
 <aside class="notes">
-* We are actually going to be using specific version of Jekyll with a set of plugins.
-* Bundler manages a set of gems (Ruby pkgs) per project via a Gemfile.
+* We are actually going to be using specific<br />version of Jekyll and<br />set of plugins.
+* Bundler manages<br />
+  * set of gems (Ruby pkgs)
+  * per project via a Gemfile.
 
 </aside>
 </section>
@@ -55,10 +59,12 @@ gem 'github-pages', group: :jekyll_plugins
 1. `jekyll new demo-site`
 1. `cd demo-site`
 1. `jekyll serve`
-
-1. edit config.yml: twitter and github<br/>`cp ../020-project/_config.yml`
-1. Helper script so I dont have to type out the header by hand.<br/>create post: `../jekyll-post-helper.sh "New Post"`
-1. Add filler<br />`lorem-ipsum >> _post/...`
+1. `cp ../020-project/_config.yml`<br />
+   edit config.yml: twitter and github
+1. `../jekyll-post-helper.sh "New Post"`<br />
+   Helper script so I dont have to type out the header by hand.
+1. `lorem-ipsum >> _post/...`<br />
+   Add filler
 1. `jekyll serve`
 
 1. We are using GitHub's version of Jekyll; (Gem = Pkgs; Bundler = pkg manager)<br/>`cp ../020-project/Gemfile .; cat Gemfile`

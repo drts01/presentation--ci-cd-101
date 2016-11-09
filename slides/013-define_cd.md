@@ -3,10 +3,13 @@
 <section>
 ## Continuous Delivery
 
-Expands upon CI by delivering code changes to a production-like environment.
+Expands CI by delivering code to<br/>
+a production-like environment.
 
 <aside class="notes">
-* Staging environments, i.e. QA
+* Expands on CI
+* delivering code to a production-like environment
+  Staging environments, i.e. QA
 
 </aside>
 </section>
@@ -19,8 +22,10 @@ Expands upon CI by delivering code changes to a production-like environment.
 * More Feedback Sooner
 
 <aside class="notes">
-* Changes are delivered to staging environment.
-* Gain more insight than running test in an isolated environment
+* Faster to Production<br >
+  Changes are delivered to staging environment.
+* More Feedback Sooner<br >
+  More realistic testing
 
 </aside>
 </section>
@@ -29,10 +34,12 @@ Expands upon CI by delivering code changes to a production-like environment.
 <section>
 ## Continuous Deployment
 
-Continuous the automation to deploy to production.
+Automate deployment to production.
 
 <aside class="notes">
-* Automating acceptance testing to promote code through pre-production/staging environment
+* Automating testing to
+* promote code through pre-production/staging environments
+* and deploy to production.
 
 </aside>
 </section>
@@ -45,8 +52,8 @@ Continuous the automation to deploy to production.
 * Immediate Real-World Feedback
 
 <aside class="notes">
-* Updates are released immediately.
-* Instant costumer feedback. Positive / negative
+* High ROI as<br />Updates are released immediately.
+* Instant costumer feedback.<br />Positive / negative
 * Requires good testing coverage
 
 </aside>

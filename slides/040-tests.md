@@ -4,8 +4,10 @@
 Identify errors.
 
 <aside class="notes">
-* Attempt detect any issue.
-* Ablity to verify is only as good as our tests.
+Tests
+
+* Attempt detect issues.
+* Ablity is only as good as our tests.
 
 </aside>
 </section>
@@ -17,9 +19,11 @@ Identify errors.
 Verify an individual components
 
 <aside class="notes">
-* Verify an isolated chucks operates as expected
-* Easier to Refactor
-* Integration is Easier
+Unit Tests
+
+* Verify isolated chucks of code operate as expected
+* Makes debuging easier
+* Integration is easier
 
 </aside>
 </section>
@@ -37,6 +41,8 @@ Verify an individual components
 Verify interaction between various software components
 
 <aside class="notes">
+Integration Tests
+
 * Make sure the whole thing works together.
 
 </aside>
@@ -58,6 +64,7 @@ Verify interaction between various software components
 * Validation / Feature Test
 
 <aside class="notes">
+* Many categories of tests
 * Testing requirements will depend on the project.
 
 </aside>

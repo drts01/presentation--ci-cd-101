@@ -42,8 +42,10 @@ script:
 ```
 
 <aside class="notes">
+* Need to tell Travis what to do.
+  * `.travis.yml` goes in root dir of project
 * lang = preconfigured environment
-* rvm = Ruby virtual machine; the version of Ruby
+* rvm = Ruby virtual machine<br />the version of Ruby
 * install = install all the gems/pkgs our project requires
   * Bundler install from Gemfile
   * Install gem/pkg htmlproofer not in Gemfile

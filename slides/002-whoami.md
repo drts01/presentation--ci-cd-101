@@ -16,7 +16,7 @@
 * Sysadmin
 * Like Linux and Unix
 * and open source in general
-* VDMS/EC is how I eat.
+* work at VDMS / Edgecast
 </aside>
 </section>
 <!-- -->
@@ -24,7 +24,7 @@
 <section>
 
 * Configuration Management<br />Chef and SaltStack
-* Presented at DevOps Day L.A.<br/> Test Driven Infrastructure<!-- .element: class="fragment" -->
+* Test Driven Infrastructure<br>presented at DevOps L.A. 2016<!-- .element: class="fragment" -->
 
 <aside class="notes">
 * Worked with Chef and SaltStack

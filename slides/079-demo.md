@@ -16,10 +16,13 @@ branches:
 ```
 
 <aside class="notes">
+Travis does the deployment:
+
 * When test pass:
-  * Set remote repo to use `ssh` instead of `http`.
-  * Change to branch that GitHub Pages checks
-  * Update that branch on GitHub
+  1. Set remote repo to use `ssh` instead of `http`
+    * we be using keys to perform passwordless authentication.
+  2. Change to branch that GitHub Pages checks
+  3. Update that branch on GitHub
 * Only run Travis-CI on `master` branch
 * Never run Travis-CI on `gh-pages` branch
 * TRAVIS_REPO_SLUG = env var in travis
@@ -37,7 +40,8 @@ ssh-keygen -t rsa -b 4096 -C "demo@travis-ci" \
 ```
 
 <aside class="notes">
-* We need to create a key pair so we can automate syncing with GitHub.
+We need to create a key pair so we can automate syncing with GitHub.
+
 * -t = type of key
 * -b = bit length of key
 * -C = comment
@@ -67,7 +71,8 @@ travis encrypt-file travis_rsa \
 ```
 
 <aside class="notes">
-* Anyone w/ the private key will be able to make modifications to the repo, so we encrypt it to protect it.
+Anyone w/ the private key will be able to make modifications to the repo<br />so we encrypt it to protect it.
+
 * --decrypt-to = output to default key file for ssh
 * --add = adds the command to decrypt the private key file to travis.yml.
 
@@ -79,10 +84,14 @@ travis encrypt-file travis_rsa \
 ## Lets Do It!
 
 <aside class="notes">
-* Create key pair<br />`ssh-keygen -t rsa -b 4096 -C "demo@travis-ci" -f travis_rsa -N ''`
-* Add public key to GitHub repo<br />`xclip -selection clipboard -i travis_rsa.pub`
-* Encrypt private key<br />`travis encrypt-file travis_rsa --decrypt-to '${HOME}/.ssh/id_rsa' --add`
-* Fix .travis.yml:<br />`chmod 400 ${HOME}/.ssh/id_rsa`
+* `ssh-keygen -t rsa -b 4096 -C "demo@travis-ci" -f travis_rsa -N ''`<br />
+  Create key pair
+* Show public key entry in GH<br />`xclip -selection clipboard -i travis_rsa.pub`<br />
+  Add public key to GitHub repo
+* `travis encrypt-file travis_rsa --decrypt-to '${HOME}/.ssh/id_rsa' --add`<br />
+  Encrypt private key
+* `chmod 400 ${HOME}/.ssh/id_rsa`<br />
+  set correct permissions
 
 </aside>
 </section>

@@ -4,6 +4,7 @@
 Getting the feedback quickly.
 
 <aside class="notes">
+* Getting the feedback.
 * Notifications can be configured how ever works best for the team's workflow.
 
 </aside>
@@ -18,7 +19,11 @@ Getting the feedback quickly.
 * Chat
 
 <aside class="notes">
-* Can integrate with anything
+Can integrate with anything
+
+* Email
+* SMS
+* Chat
 
 </aside>
 </section>
@@ -32,6 +37,8 @@ Getting the feedback quickly.
 Hosted team communication tool.
 
 <aside class="notes">
+We will be using Slack.
+
 * Popular chat service.
 * Freeium
 

@@ -9,10 +9,6 @@ A system that records changes over time so that you can refer back to a previous
 * Our software repository
   * save
   * track changes
-* modification should be
-  * small
-  * frequent
-* opposed to waiting for 1 large update
 
 </section>
 <!-- -->
@@ -25,7 +21,9 @@ A system that records changes over time so that you can refer back to a previous
 A free and open source distributed version control system.
 
 <aside class="notes">
-It allows us to track changes and coordinate making modifications with others.
+* Using git
+  * free and open source
+  * distributed version control system.
 
 </aside>
 </section>
@@ -39,7 +37,8 @@ It allows us to track changes and coordinate making modifications with others.
 Online project hosting using Git.
 
 <aside class="notes">
-Popular and free for opensource projects
+* GitHub hosts git repositories.
+* Popular and free for opensource projects
 
 </aside>
 </section>

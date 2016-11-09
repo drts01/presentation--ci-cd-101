@@ -12,6 +12,8 @@ jekyll build
 ```
 
 <aside class="notes">
+Using Jekyll itself to test:
+
 * lint the config file - verify syntax
 * build - verify that the site can "compile"
 
@@ -22,11 +24,11 @@ jekyll build
 <section>
 ## HTMLProofer
 
+Checks images, links, HTML validation, etc
+
 ```
 htmlproofer ./_site
 ```
-
-Checks images, links, HTML validation, etc
 
 <aside class="notes">
 
@@ -38,9 +40,12 @@ Checks images, links, HTML validation, etc
 ## Lets Do It!
 
 <aside class="notes">
-1. Lint Test Config File<br/>` jekyll doctor `
-1. Verify Site Can Build<br/>` jekyll build `
-1. `htmlproofer ./_site --allow-hash-href`
+1. ` jekyll doctor `<br />
+   Lint Test Config File
+1. ` jekyll build `<br />
+   Verify Site Can Build
+1. `htmlproofer ./_site --allow-hash-href`<br />
+   Check links and HTML
 
 </aside>
 </section>
