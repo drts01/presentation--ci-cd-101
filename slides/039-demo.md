@@ -16,7 +16,7 @@
 
 <section>
 <br/>
-## Name Remote Repo <!-- .element: style="margin-bottom:-.75em" -->
+## Name Remote Repo <!-- .element: style="margin-bottom:-.5em" -->
 
 ![git-02-create-repo.png](img/git-02-create-repo.png) <!-- .element: style="height:11em; margin-bottom:0em" -->
 
@@ -29,7 +29,9 @@
 
 <section>
 <br/>
-## SCREEN SHOT OF EMPTY REPO
+## Empty Remote Repo <!-- .element: style="margin-bottom:-.5em" -->
+
+![git-0xi32-create-repo.png](img/git-03-create-repo.png) <!-- .element: style="height:11em; margin-bottom:0em" -->
 
 <aside class="notes">
 * GH provides some set instruction on how to get your code up.

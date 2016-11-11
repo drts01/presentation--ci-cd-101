@@ -2,7 +2,7 @@
 
 <section>
 <br />
-## Authorize API Access <!-- .element: style="margin-bottom:-.75em" -->
+## Authorize API Access <!-- .element: style="margin-bottom:-.5em" -->
 
 ![travis-01-auth.png](img/travis-01-auth.png) <!-- .element: style="height:11em; margin-bottom:0em" -->
 
@@ -15,7 +15,7 @@
 
 <section>
 <br/>
-## Add repository in Travis <!-- .element: style="margin-bottom:-.75em" -->
+## Add repository in Travis <!-- .element: style="margin-bottom:-.5em" -->
 
 ![travis-01-auth.png](img/travis-02-add-repo.png)
 

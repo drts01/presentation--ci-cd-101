@@ -7,9 +7,8 @@
 http://www.slideshare.net/xebialabs/webinar-using-jenkins-xl-testview-to-ensure-quality-in-continuous-delivery <!-- .element: style="font-size:small; position: absolute; right:0" -->
 
 <aside class="notes">
-Illustrate differences between CI, CD, and CD.
-
-This is a simplified model to illustrate key concepts. There is no “one-size fits all” model. Different project could require more complex build and deployment processes. Also, in most situation better test coverage is desirable.
+* Illustrate differences between CI, CD, and CD.
+* simplified model
 
 </aside>
 </section>

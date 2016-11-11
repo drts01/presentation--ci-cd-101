@@ -55,6 +55,32 @@ We need to create a key pair so we can automate syncing with GitHub.
 <section>
 ## Add Public Key to Repo
 
+![deploy-01-key.png](img/deploy-01-key.png)
+
+<aside class="notes">
+* GitHub gets the public half of the key pair.
+
+</aside>
+</section>
+<!-- -->
+
+<section>
+## Cut and Paste Public Key
+
+![deploy-02-key.png](img/deploy-02-key.png)
+
+<aside class="notes">
+* GitHub gets the public half of the key pair.
+
+</aside>
+</section>
+<!-- -->
+
+<section>
+## Deploy Key Added
+
+![deploy-03-key.png](img/deploy-03-key.png)
+
 <aside class="notes">
 * GitHub gets the public half of the key pair.
 

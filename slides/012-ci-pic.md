@@ -7,10 +7,9 @@ http://www.pepgotesting.com/continuous-integration/ <!-- .element: style="font-s
 Note:
 Workflow
 
-1. Workstations, bottom
-1. Check in code to
-  Source control, upper right
-1. CI server get new code<br />center
-  1. builds / compile
-  1. run tests
-1. feedback / notifications<br />back down to workstations
+1. Workstations - bottom
+1. Check-in code to<br />Source control -  upper right
+1. CI server fetches new code<br />center
+  1. builds / compiles
+  1. runs tests
+1. Feedback / notifications<br />back down to workstations
