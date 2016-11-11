@@ -7,28 +7,31 @@
 <!-- -->
 
 <section>
-* SysAdmin / Operations
-* Likes \*nix <!-- .element: class="fragment" -->
-* and Open Source <!-- .element: class="fragment" -->
-* Work at VDMS / Edgecast <!-- .element: class="fragment" -->
+## SysAdmin / Operations
+* Likes \*nix
+* and Open Source
+* Work at VDMS / Edgecast
 
 <aside class="notes">
-* Sysadmin
+* Mostly Ops
 * Like Linux and Unix
 * and open source in general
-* work at VDMS / Edgecast
+* Currently work at VDMS / Edgecast
 </aside>
 </section>
 <!-- -->
 
 <section>
-
-* Configuration Management<br />Chef and SaltStack
-* Test Driven Infrastructure<br>presented at DevOps L.A. 2016<!-- .element: class="fragment" -->
+## Configuration Management
+* Chef
+* SaltStack
+* Presented on<br>**T**est **D**riven **I**nfrastructure
+  * DevOps L.A. / SCaLE 14x
+  * Socal Code Camp 2015
 
 <aside class="notes">
 * Worked with Chef and SaltStack
-* Earlier this year - TDI
+* Given a talk on TDI
 </aside>
 </section>
 <!-- -->
@@ -36,6 +39,9 @@
 <section>
 ## I Want to Automate<br />All The Things
 <aside class="notes">
+* don't want to redo the same work
+* consistency
+
 </aside>
 </section>
 <!-- -->

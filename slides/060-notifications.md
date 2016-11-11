@@ -1,7 +1,7 @@
 # Notifications
 
 <section>
-Getting the feedback quickly.
+Reports when changes are made and<br />if tests were successful.
 
 <aside class="notes">
 * Getting the feedback.

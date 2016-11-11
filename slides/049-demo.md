@@ -8,7 +8,7 @@
 jekyll doctor
 
 # Verify Site Can Build
-jekyll build
+jekyll build --destination _site
 ```
 
 <aside class="notes">

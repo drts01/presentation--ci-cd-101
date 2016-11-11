@@ -35,9 +35,9 @@ rvm:
 - 2.2
 install:
 - bundle install
-- gem install jekyll html-proofer
+- gem install html-proofer
 script:
-- bundle exec jekyll doctor && bundle exec jekyll build --verbose
+- jekyll doctor && jekyll build --verbose
 - htmlproofer ./_site --allow-hash-href
 ```
 

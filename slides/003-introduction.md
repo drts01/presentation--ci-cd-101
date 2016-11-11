@@ -2,15 +2,16 @@
 <section>
 ## Overview
 
-Understand an automated workflow and implementation<br>
-to build, test, and deploy a project.
+Understand a CD / CD workflow and implementation.
 
-** What, Why, How to CI/CD **
+* What
+* Why
+* How
 
 <aside class="notes">
-* What, Why, How to CI/CD
-* Basic concepts
+* Basic concepts of CI / CD
 * workflow
+* and demonstrate an implementation.
 </aside>
 </section>
 <!-- -->

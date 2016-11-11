@@ -37,7 +37,7 @@ A popular, simple blog-aware static site generator.
 <aside class="notes">
 * The tool: Jekyll.
 * popular, simple, blog-aware<br />static site generator.
-* It's like a file-based CMS.
+* ruby based
 
 </aside>
 </section>

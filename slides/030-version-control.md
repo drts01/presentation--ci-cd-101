@@ -7,7 +7,7 @@ A system that records changes over time so that you can refer back to a previous
 
 <aside class="notes">
 * Our software repository
-  * save
+  * Record
   * track changes
 
 </section>

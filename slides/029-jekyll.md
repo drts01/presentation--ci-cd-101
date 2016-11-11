@@ -8,9 +8,43 @@ jekyll new demo-site
 ```
 
 <aside class="notes">
-* Creates scafolding
+* Creates scaffolding
 * and default config
 
+</aside>
+</section>
+<!-- -->
+
+<section >
+## Default Scaffolding
+
+```xml
+demo-site/
+├── about.md
+├── _config.yml
+├── css/
+│   └── main.scss
+├── feed.xml
+├── .gitignore
+├── _includes/
+│   ├── footer.html
+│   ├── header.html
+│   └── head.html
+├── index.html
+├── _layouts/
+│   ├── default.html
+│   ├── page.html
+│   └── post.html
+├── _posts/
+│   └── 2016-11-05-welcome-to-jekyll.markdown
+└── _sass/
+    ├── _base.scss
+    ├── _layout.scss
+    └── _syntax-highlighting.scss
+```
+
+<aside class="notes">
+Default file structure
 </aside>
 </section>
 <!-- -->
@@ -23,7 +57,6 @@ jekyll serve
 ```
 
 <aside class="notes">
-* To see it
 * Generates site and<br />
   starts a local webserver to view it.
 
@@ -42,7 +75,7 @@ gem 'github-pages', group: :jekyll_plugins
 ```
 
 <aside class="notes">
-* We are actually going to be using specific<br />version of Jekyll and<br />set of plugins.
+* using a specific version of Jekyll and<br />set of plugins.
 * Bundler manages<br />
   * set of gems (Ruby pkgs)
   * per project via a Gemfile.

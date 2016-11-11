@@ -9,7 +9,7 @@ A software development practice<br />where code changes are:
 
 <aside class="notes">
 * Development practice
-* automate builds and tests
+* automatically build and test
 * small frequent code changes
   * not periodic large modifications
 
