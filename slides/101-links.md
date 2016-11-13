@@ -13,6 +13,10 @@
 * [Agile Alliance Glossary](https://www.agilealliance.org/agile101/agile-glossary/)<br />
     [https://www.agilealliance.org/agile101/agile-glossary/](https://www.agilealliance.org/agile101/agile-glossary/) <!-- .element: style="font-size:50%;vertical-align:top;" -->
 
+<aside class="notes">
+Resources that help me explain
+
+</aside>
 </section>
 <!-- -->
 
@@ -24,6 +28,10 @@
 * [What is GitHub Pages](https://help.github.com/articles/what-is-github-pages/) <br />
   [https://help.github.com/articles/what-is-github-pages/](https://help.github.com/articles/what-is-github-pages/) <!-- .element: style="font-size:50%;vertical-align:top;" -->
 
+<aside class="notes">
+Documentation to help get started.
+
+</aside>
 </section>
 <!-- -->
 

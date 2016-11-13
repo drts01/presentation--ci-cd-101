@@ -31,9 +31,10 @@ Why
 * Reduced Risk<br />
   Quick and Effective Feedback
   * Every change is automatically verified
+  * consistent manner
   * Catch issues faster
 * Improve Software Quality
-  * Easier to redactor
+  * Easier to refactor
 * Greater Visibility
   * track changes
 

@@ -40,7 +40,8 @@ ssh-keygen -t rsa -b 4096 -C "demo@travis-ci" \
 ```
 
 <aside class="notes">
-We need to create a key pair so we can automate syncing with GitHub.
+* create a key pair (private and public)
+* so we can automate syncing with GitHub.
 
 * -t = type of key
 * -b = bit length of key
@@ -110,14 +111,12 @@ Anyone w/ the private key will be able to make modifications to the repo<br />so
 ## Lets Do It!
 
 <aside class="notes">
-* `ssh-keygen -t rsa -b 4096 -C "demo@travis-ci" -f travis_rsa -N ''`<br />
-  Create key pair
-* Show public key entry in GH<br />`xclip -selection clipboard -i travis_rsa.pub`<br />
-  Add public key to GitHub repo
-* `travis encrypt-file travis_rsa --decrypt-to '${HOME}/.ssh/id_rsa' --add`<br />
-  Encrypt private key
+* `cat ../070/travis.yml >> .travis.yml`
+* Show public key in GitHub
+* `travis encrypt-file travis_rsa --decrypt-to '${HOME}/.ssh/id_rsa' --add`
 * `chmod 400 ${HOME}/.ssh/id_rsa`<br />
   set correct permissions
+* `git commit --message='add deployment to gh-pages'`
 
 </aside>
 </section>

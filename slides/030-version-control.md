@@ -6,9 +6,11 @@
 A system that records changes over time so that you can refer back to a previous.
 
 <aside class="notes">
-* Our software repository
+* software repository
   * Record
-  * track changes
+  * track
+  * share changes
+* Repository is were we store files for our project.
 
 </section>
 <!-- -->

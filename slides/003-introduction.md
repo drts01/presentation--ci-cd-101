@@ -11,7 +11,9 @@ Understand a CD / CD workflow and implementation.
 <aside class="notes">
 * Basic concepts of CI / CD
 * workflow
+* processes
 * and demonstrate an implementation.
+
 </aside>
 </section>
 <!-- -->
