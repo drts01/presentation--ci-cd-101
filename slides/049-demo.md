@@ -31,6 +31,12 @@ htmlproofer ./_site
 ```
 
 <aside class="notes">
+htmlproofer
+
+* images exsists
+* links work
+* valid HTML
+* etc
 
 </aside>
 </section>

@@ -26,10 +26,11 @@
 * Chef
 * SaltStack
 * Presented on<br>**T**est **D**riven **I**nfrastructure
-  * DevOps L.A. / SCaLE 14x
+  * DevOps Day L.A. / SCaLE 14x
   * Socal Code Camp 2015
 
 <aside class="notes">
+* CM introduced me to CI / CD
 * Worked with Chef and SaltStack
 * Given a talk on TDI
 </aside>

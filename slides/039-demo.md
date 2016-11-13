@@ -8,7 +8,6 @@
 <aside class="notes">
 * We need a repository on GH.<br />
   Assuming you already have an account.
-* Repository is were we store files for our project.
 
 </aside>
 </section>
@@ -54,7 +53,9 @@ git commit --message "first commit"
 
 * init - initializes directory as a git repository.
 * add - adds files to be tracked
+  * git make no assumptions
 * commit - record the changes
+  * git allows you include/remove file before you "save"
 
 </aside>
 </section>
@@ -69,9 +70,9 @@ git push --set-upstream origin master
 ```
 
 <aside class="notes">
-We need to tell the local repo how to find the remote repo.
+Link local to remote
 
-* remote add origin - sets origin as an alias for remote repo
+* remote add - sets origin as an alias for remote repo
 * push - updates remote repo
   * --set-upsteam - links alias origin to master branch
 * branch - a set of files on a particular development path<br/>
@@ -93,7 +94,7 @@ git status
 
 <aside class="notes">
 An important part of version control is<br />the ablity to see what is going on.
-* log - shows the history log; each record is track with a hash.
+* log - shows the history log
 * status - show status of files, i.e. modified, not tracking, etc.
 
 </aside>
@@ -126,7 +127,7 @@ An important part of version control is<br />the ablity to see what is going on.
 1. `git remote add origin https://github.com/DIGITALR00TS-demo/socal-code-camp.git`<br/>
   * origin is an alias for the remote repository URL
   * in our case on GitHub.
-1. `git remote show origin`
+1. `git remote --verbose`
   * Head branch unknown because remote repository is not yet linked to local repository
   * Branch is a pointer to the "working" set of file
 1. `git branch`<br />
