@@ -18,6 +18,10 @@
 ![all-the-things.png](img/all-the-things.png)
 
 <aside class="notes">
+* hopefully by now gh-pages deployed
+* show gh-pages branch
+* show web-site
+
 </aside>
 </section>
 <!-- -->

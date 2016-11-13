@@ -9,11 +9,12 @@
 ## Learning CI / CD by<br />Building Personal Websites
 
 <aside class="notes">
+
 * How many people are familiar with git?
 * How many people know what Travis-CI is?
 
-* An applied introduction to CI / CD pipelines
-* A simple, but hopefully usefully example.
+* basic concepts of CI / CD workflow
+* got idea from work
 
 </aside>
 </section>

@@ -46,9 +46,9 @@ htmlproofer
 ## Lets Do It!
 
 <aside class="notes">
-1. ` jekyll doctor `<br />
+1. `jekyll doctor`<br />
    Lint Test Config File
-1. ` jekyll build `<br />
+1. `jekyll build --verbose`<br />
    Verify Site Can Build
 1. `htmlproofer ./_site --allow-hash-href`<br />
    Check links and HTML

@@ -65,6 +65,7 @@ script:
 1. Create .travis.yml<br/>`cp ../050-ci/travis.yml .travis.yml`
 1. `git status`
 1. `git add .travis.yml`
+1. `git commit --message="add .travis.yml`
 1. `git push`
 
 </aside>
