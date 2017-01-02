@@ -1,5 +1,16 @@
 language: node_js
 node_js:
-  - 4.1.1
+- 4.6.0
+env:
+- CXX=g++-4.8
+addons:
+  apt:
+    sources:
+    - ubuntu-toolchain-r-test
+    packages:
+    - g++-4.8
 before_script:
-  - npm install -g grunt-cli
+- npm install -g grunt-cli
+notifications:
+  slack:
+    secure: tmJ2jC17nbP1jJK7ip9WkqOFy/uIbmVxeH2enyc1UU5uD2yncxt6tRexVYgaL6yqlaB3sEazSRlworVhiL0lvT4HLCUAsYIVXlTQCwdZP9OmdGBO1F2TWnfINNEbYmpo1pP479gHUKayS1lpmCMJTPTL52Nho5ikg1ZOKGgMvUHUA24AKnYbuvSxV2bo/p0bmZFuqbnY1yurw7WO2nSHye102Iwd20OYvTmPPhEVFtmrH704TDzUnGMhFuahbE8IehgwotZjeCDaHVjaE8g8L7c15FyiI9M9fivXlI9tHC+3uWncRUlVEuGIWflvh9T773zNURB+9u5F6nWvAZYZqEmTHweVO5jWP7/xUoIQ4JHE+kOq2mFkXaPFdUSkqGQjrRrjDXeaA1PndT3lvkYAgnC/Rtya70YilGiEHob/umQiqLYYDDnpjQm/9C9aK7mSl+vxp/V6L77BbeDV2trOJqftkNM+qCyo76j3ldAfUrbhem7Sx5GVkbx63OpPZJ18ehgsDQD8M9+5XSTp/xxUXH0DGoIZC1O+4FeUsXSY4a2fdKL2nfKzsBj3u0rCOGlCmqaBHCKai7CAZYuRT5KA1sqUCkoqwho9x05qgrggvPSNKr9lGLzTXauSS1warl6BVO2ZTnfxTgZPRka+YTmDsOxNT4VeWbSvzoZqhDXrgns=
