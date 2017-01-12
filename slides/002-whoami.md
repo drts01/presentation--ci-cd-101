@@ -1,48 +1,24 @@
-# Carlos Meza
+# WHOMAI
 
 <section>
-## WHOAMI
+## Carlos Meza
+@DIGITALR00TS
 
 </section>
 <!-- -->
 
 <section>
-## SysAdmin / Operations
-* Likes \*nix
-* and Open Source
+## Linux Systems Administrator
+* Config Management and TDI
 * Work at VDMS / Edgecast
 
 <aside class="notes">
-* Mostly Ops
-* Like Linux and Unix
-* and open source in general
-* Currently work at VDMS / Edgecast
-</aside>
-</section>
-<!-- -->
-
-<section>
-## Configuration Management
-* Chef
-* SaltStack
-* Presented on<br>**T**est **D**riven **I**nfrastructure
+* Linux Systems Administrator
+* Like Linux, Unix and OpenSouce development
+* Test Driven Infrastructure
+  * where I learned CI/CD
   * DevOps Day L.A. / SCaLE 14x
-  * Socal Code Camp 2015
-
-<aside class="notes">
-* CM introduced me to CI / CD
-* Worked with Chef and SaltStack
-* Given a talk on TDI
-</aside>
-</section>
-<!-- -->
-
-<section>
-## I Want to Automate<br />All The Things
-<aside class="notes">
-* don't want to redo the same work
-* consistency
-
+* Currently work at VDMS / Edgecast
 </aside>
 </section>
 <!-- -->
