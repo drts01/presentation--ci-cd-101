@@ -2,7 +2,8 @@
 
 <section>
 ## Carlos Meza
-@DIGITALR00TS
+![twitter button](img/twitter.svg) <!-- .element style="height:1em; border:0; vertical-align:middle" -->
+**[@DIGITALR00TS](https://twitter.com/digitalr00ts)<!-- .element style="color:lightgreen" -->**
 
 </section>
 <!-- -->

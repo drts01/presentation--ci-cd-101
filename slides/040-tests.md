@@ -54,3 +54,24 @@ Tests
 </section>
 <!-- -->
 
+<section>
+## Our Tests
+
+* Jekyll
+* HTMLProofer
+
+<aside class="notes">
+Out Tests
+
+* Jekyll it self
+  * config sane
+  * can complie
+* HTMLProofer
+  * Syntax
+  * Bad Links / Missing Images
+  * More
+
+</aside>
+</section>
+<!-- -->
+
