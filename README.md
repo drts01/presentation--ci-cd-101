@@ -13,9 +13,9 @@ Presentation was built using [reveal.js](https://github.com/hakimel/reveal.js/)
    $ git clone https://github.com/CMeza99/presentation--ci-cd-101.git
    ```
 
-1. Navigate to the reveal.js folder
+1. Navigate to the directory of the repoitory
    ```sh
-   $ cd reveal.js
+   $ cd presentation--ci-cd-101
    ```
 
 1. Install dependencies
