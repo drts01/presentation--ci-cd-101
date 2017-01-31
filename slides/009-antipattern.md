@@ -18,7 +18,8 @@ waterfall model is a sequential (non-iterative) design process used in software 
 
 ## Waterfall
 
-* Monolithic changes
+Infrequent monolithic changes
+
 * Higher risk of unintended impact
 * More complex to debug
 * More time to production
@@ -26,7 +27,10 @@ waterfall model is a sequential (non-iterative) design process used in software 
 
 <aside class="notes">
 
-* Waterfall
+Waterfall
+
+* traditional method of infrequent large changes.
+* thought to be safer to touch prod less frequently
 
 </aside>
 </section>
@@ -41,6 +45,12 @@ waterfall model is a sequential (non-iterative) design process used in software 
 * Slow
 
 <aside class="notes">
+
+Another antipattern is manual processes.
+
+* cannot reliable reproduce
+* prone to errors
+* slower
 
 </aside>
 </section>
