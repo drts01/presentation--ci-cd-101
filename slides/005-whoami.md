@@ -1,4 +1,4 @@
-# WHOMAI
+# WHOAMI
 
 <section>
 ## Carlos Meza
@@ -15,7 +15,7 @@
 
 <aside class="notes">
 * Linux Systems Administrator
-* Like Linux, Unix and OpenSouce development
+* Like Linux, Unix and Open Source development
 * Test Driven Infrastructure
   * where I learned CI/CD
   * DevOps Day L.A. / SCaLE 14x

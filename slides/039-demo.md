@@ -74,7 +74,7 @@ Link local to remote
 
 * remote add - sets origin as an alias for remote repo
 * push - updates remote repo
-  * --set-upsteam - links alias origin to master branch
+  * --set-upstream - links alias origin to master branch
 * branch - a set of files on a particular development path<br/>
   by default git starts with a master branch.
 
@@ -93,7 +93,7 @@ git status
 ```
 
 <aside class="notes">
-An important part of version control is<br />the ablity to see what is going on.
+An important part of version control is<br />the ability to see what is going on.
 * log - shows the history log
 * status - show status of files, i.e. modified, not tracking, etc.
 
@@ -117,7 +117,7 @@ An important part of version control is<br />the ablity to see what is going on.
 1. `git commit --message "first commit"`<br/>
    checking in files
 1. `git status`<br />
-   everything is upto date
+   everything is up to date
 1. `git log`
   * can see history
   * git tracks changes with hashes

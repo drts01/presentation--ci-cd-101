@@ -40,7 +40,7 @@ Online project hosting using Git.
 
 <aside class="notes">
 * GitHub hosts git repositories.
-* Popular and free for opensource projects
+* Popular and free for open source projects
 
 </aside>
 </section>

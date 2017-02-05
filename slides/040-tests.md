@@ -65,7 +65,7 @@ Out Tests
 
 * Jekyll it self
   * config sane
-  * can complie
+  * can compile
 * HTMLProofer
   * Syntax
   * Bad Links / Missing Images

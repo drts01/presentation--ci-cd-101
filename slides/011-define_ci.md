@@ -34,7 +34,7 @@ Why
   * consistent manner
   * Catch issues faster
 * Improve Software Quality
-  * Easier to refactor
+  * Easier refactoring
 * Greater Visibility
   * track changes
 

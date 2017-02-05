@@ -58,7 +58,7 @@ jekyll serve
 
 <aside class="notes">
 * Generates site and<br />
-  starts a local webserver to view it.
+  starts a local web server to view it.
 
 </aside>
 </section>
@@ -95,12 +95,12 @@ gem 'github-pages', group: :jekyll_plugins
 1. `cp ../020-project/_config.yml`<br />
    edit config.yml: twitter and github
 1. `../jekyll-post-helper.sh "New Post"`<br />
-   Helper script so I dont have to type out the header by hand.
+   Helper script so I don't have to type out the header by hand.
 1. `lorem-ipsum >> _post/...`<br />
    Add filler
 1. `jekyll serve`
 
-1. We are using GitHub's version of Jekyll; (Gem = Pkgs; Bundler = pkg manager)<br/>`cp ../020-project/Gemfile .; cat Gemfile`
+1. We are using GitHub's version of Jekyll; (Gem = pkgs; Bundler = pkg manager)<br/>`cp ../020-project/Gemfile .; cat Gemfile`
 
 </aside>
 </section>

@@ -4,7 +4,7 @@
 ## Build a website
 
 <aside class="notes">
-* Our "product": webpage.
+* Our "product": web page.
 * Example to focus on
   * workflow / process
   * not code

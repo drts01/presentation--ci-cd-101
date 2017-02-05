@@ -1,6 +1,24 @@
 # Components
 
 <section>
+## Code (Project)
+
+Anything that can be represented as code.
+
+* Web application
+* Infrastructure
+* Documentation
+
+<aside class="notes">
+
+* If we didn't have a project, there would be no point.
+* Applies to anything that can be represented as code.
+
+</aside>
+</section>
+<!-- -->
+
+<section>
 
 ## Version Control
 
@@ -57,24 +75,6 @@ Feedback on successfulness of<br/>tests, builds, and deployments.
 <aside class="notes">
 
 * Feedback on what is going on without needing to go looking for the results.
-
-</aside>
-</section>
-<!-- -->
-
-<section>
-## Code (Project)
-
-Anything that can be represented as code.
-
-* Web application
-* Infrastructure
-* Documentation
-
-<aside class="notes">
-
-* If we didnt have a project, there would be no point.
-* Applies to anything that can be represented as code.
 
 </aside>
 </section>

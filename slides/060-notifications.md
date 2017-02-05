@@ -12,7 +12,7 @@ Reports when changes are made and<br />if tests were successful.
 <!-- -->
 
 <section>
-## Possibiities
+## Possibilities
 
 * Email
 * SMS
@@ -40,7 +40,7 @@ Hosted team communication tool.
 We will be using Slack.
 
 * Popular chat service.
-* Freeium
+* Freemium
 
 </aside>
 </section>

@@ -33,7 +33,7 @@ htmlproofer ./_site
 <aside class="notes">
 htmlproofer
 
-* images exsists
+* images exists
 * links work
 * valid HTML
 * etc

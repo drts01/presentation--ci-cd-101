@@ -46,7 +46,7 @@ Waterfall
 
 <aside class="notes">
 
-Another antipattern is manual processes.
+Another anti-pattern is manual processes.
 
 * cannot reliable reproduce
 * prone to errors
