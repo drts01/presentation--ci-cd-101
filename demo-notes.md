@@ -7,7 +7,6 @@
 3. enable in travis
 4. add build status icon
 
-
 What is devops
 
 DevOps For Dummies
@@ -56,3 +55,9 @@ discover issues earlier/sooner
 isolate/localize issues - fix defect vs attempt to reproduce and hunt for issue.
 
 Collaborative development, generally among teams but practices can be applied to personal projects.
+
+
+Mike Weilgart from Vertical Sysadmin, Inc.
+Git Foundations: Basic Concepts and Definitions
+SGVLUG November 2016
+https://www.youtube.com/watch?v=j6Se3jH60dA
