@@ -7,6 +7,9 @@
 3. enable in travis
 4. add build status icon
 
+https://git-scm.com/
+https://services.github.com/resources/index.html
+
 What is devops
 
 DevOps For Dummies
