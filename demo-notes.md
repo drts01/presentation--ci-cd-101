@@ -61,3 +61,11 @@ Mike Weilgart from Vertical Sysadmin, Inc.
 Git Foundations: Basic Concepts and Definitions
 SGVLUG November 2016
 https://www.youtube.com/watch?v=j6Se3jH60dA
+
+GitLab
+- Open Source
+- Pulls from Docker Registry (or any)
+- Like Jenkins' Master/Slave (can use VMs/Containers/AWS/OpenStack/etc)
+- Pipelines
+Cons:
+- Documentation
