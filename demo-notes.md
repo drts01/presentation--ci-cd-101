@@ -9,8 +9,18 @@
 
 What is devops
 
+What is DevOps? - In Simple English - Rackspace
+https://www.youtube.com/watch?v=_I94-tJlovg
+DevOps integrates developers and operation teams in order to improve collaboration and productivity by automating infrastructure, workflows, and continuously monitoring.
+
+code small chunks - test, integrate, monitor, quickly/frequently
+improves ability to respond, time to market, and more focus to improving the business
+
 DevOps For Dummies
 http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/
+https://public.dhe.ibm.com/common/ssi/ecm/ra/en/ram14026usen/RAM14026USEN.PDF
+
+how do we get an idea (feature, requirement, bug fix, enhancement) out to the customer/production. feedback - meeting expectation, how to plan/prioritize, improving process
 
  In
 broad terms, DevOps is an approach based on lean and agile
@@ -18,11 +28,7 @@ principles in which business owners and the development,
 operations, and quality assurance departments collaborate to
 deliver software in a continuous manner that enables the business
 to more quickly seize market opportunities and reduce
-the time to include customer feedback. Indeed, enterprise
-applications are so diverse and composed of multiple technologies,
-databases, end-user devices, and so on, that only a
-DevOps approach will be successful when dealing with these
-complexities.
+the time to include customer feedback.
 
  DevOps as a business-driven software
 delivery approach — an approach that takes a new or enhanced
@@ -36,7 +42,7 @@ partners, suppliers, and so on.
 
 Buisness
 * Systems of record (audit/track)
-* Systems of engagement (communiaiton)
+* Systems of engagement (communication)
 Value
  Enhanced customer experience
  ✓ Increased capacity to innovate
