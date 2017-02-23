@@ -1,8 +1,10 @@
-# CI / CD
+## CI / CD
 
 <section>
 A software development practices to produce better code,
 by automating much of the workflow for consistency and speed.
+
+![TDD](/img/ci-tdd-icon.svg) <!-- .element: style="border:0;background-color:inherit;height:4em;margin-bottom:-3em" -->
 
 <aside class="notes">
 * Development practice
@@ -14,17 +16,14 @@ by automating much of the workflow for consistency and speed.
 <!-- -->
 
 <section>
-## How
 
-Small frequent changes with automated build, testing, and reporting.
+Small frequent changes with<br>automated build, testing, and reporting.
 
 * Greater visibility
-* Easier to debug
+* Easier to integrate and debug
 * Quick and effective feedback
 * Reduced risk
 * Faster ROI
-
-* Easier integration
 
 <aside class="notes">
 

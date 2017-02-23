@@ -10,6 +10,8 @@ http://www.slideshare.net/xebialabs/webinar-using-jenkins-xl-testview-to-ensure-
 * Illustrate differences between CI, CD, and CD.
 * simplified model
 
+* feedback at every step of the process/workflow
+
 </aside>
 </section>
 <!-- -->

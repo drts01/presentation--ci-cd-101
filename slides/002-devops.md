@@ -1,4 +1,4 @@
-# DevOps
+## DevOps
 
 <section>
 
@@ -9,51 +9,16 @@ improve collaboration and productivity
 
 <aside class="notes">
 
-* Idea to production (enhancements, requirements, bug fixes)
+* Idea to production
+ * enhancements, requirements, bug fixes
 * Key Concepts:
  * Automation (infrastructure, workflows)
  * Monitor
  * Improve
 * Many componets to DevOps
  * Culture
- *
+ * Processes
 * CI/CD is a component
-</aside>
-</section>
-<!-- -->
-
-<section>
-
-## CI/CD
-
-* Continuous Integration
-* Continuous Delivery
-* Continuous Deployment
-
-<aside class="notes">
-
-Practices improve software development
-
-</aside>
-</section>
-<!-- -->
-
-<section>
-
-## Objectives
-
-* Concepts
-* Components
-* Example
-
-<aside class="notes">
-
-* What and Why
-* How and parts of workflow
-* Example,
-
-* not just for large projects
-
 </aside>
 </section>
 <!-- -->

@@ -1,10 +1,10 @@
-# Traditional
+### Traditional
 
 <section>
 
-## Waterfall
+### Waterfall <!-- .element style="margin:0" -->
 
-![https://upload.wikimedia.org/wikipedia/commons/0/06/Waterfall_model_%281%29.svg](https://upload.wikimedia.org/wikipedia/commons/0/06/Waterfall_model_%281%29.svg) <!-- .element style="border:0;background-color:transparent;height:9em" -->
+![https://upload.wikimedia.org/wikipedia/commons/0/06/Waterfall_model_%281%29.svg](https://upload.wikimedia.org/wikipedia/commons/0/06/Waterfall_model_%281%29.svg) <!-- .element style="border:0;background-color:transparent;height:9em;margin-top:0;margin-bottom:-3em" -->
 
 <aside class="notes">
 
@@ -16,7 +16,7 @@ waterfall model is a sequential (non-iterative) design process used in software 
 
 <section>
 
-## Waterfall
+### Waterfall
 
 Infrequent monolithic changes
 
@@ -38,7 +38,7 @@ Waterfall
 
 <section>
 
-## Manual processes
+### Manual processes
 
 * Inconsistent
 * Error Prone
