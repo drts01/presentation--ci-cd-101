@@ -1,7 +1,7 @@
-# WHOAMI
+## WHOAMI
 
 <section>
-## Carlos Meza
+### Carlos Meza
 ![twitter button](img/twitter.svg) <!-- .element style="height:1em; border:0; vertical-align:middle" -->
 **[@DIGITALR00TS](https://twitter.com/digitalr00ts)<!-- .element style="color:lightgreen" -->**
 
@@ -9,7 +9,7 @@
 <!-- -->
 
 <section>
-## Linux Systems Administrator
+### Linux Systems Administrator
 * Config Management and TDI
 * Work on the Edgecast CDN<br/>for Verizon Digital Media Services
 

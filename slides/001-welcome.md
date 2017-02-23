@@ -6,15 +6,18 @@
 
 <div style="height:11em; display:block"> </div>
 
-## Learning CI / CD by<br />Building Personal Websites
+## An introduction to CI/CD
 
 <aside class="notes">
 
-* How many people are familiar with git?
-* How many people know what Travis-CI is?
+* Welcome "How to DevOp"
+* specifically an introduction to
+* continuous integration, delivery, deployment
+* demonstrate
+ * not just large teams/projects
+ * applies to personal projects
 
-* basic concepts of CI / CD workflow
-* got idea from work
+But, what is DevOps?
 
 </aside>
 </section>
