@@ -11,7 +11,7 @@
 <section>
 ### Linux Systems Administrator
 * Config Management and TDI
-* Work on the Edgecast CDN<br/>for Verizon Digital Media Services
+* Work on the EdgeCast CDN<br/>for Verizon Digital Media Services
 
 <aside class="notes">
 * Linux Systems Administrator

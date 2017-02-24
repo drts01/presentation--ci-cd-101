@@ -1,4 +1,4 @@
-### Traditional
+### Traditionally
 
 <section>
 
@@ -28,9 +28,8 @@ Infrequent monolithic changes
 <aside class="notes">
 
 Waterfall
-
 * traditional method of infrequent large changes.
-* thought to be safer to touch prod less frequently
+* thought less changes would be more stable
 
 </aside>
 </section>

@@ -1,4 +1,4 @@
-# Pipeline
+## Pipeline
 
 <section> <!-- .element: data-background-image="img/pipeline.svg" data-background-size="contain" -->
 
