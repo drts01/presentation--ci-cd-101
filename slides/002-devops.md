@@ -15,10 +15,10 @@ improve collaboration and productivity
  * Automation (infrastructure, workflows)
  * Monitor
  * Improve
-* Many componets to DevOps
+* Many aspects to DevOps
  * Culture
- * Processes
-* CI/CD is a component
+ * Different Processes
+* CI/CD is a workflow that enables us to do the devops.
 </aside>
 </section>
 <!-- -->
