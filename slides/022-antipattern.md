@@ -1,15 +1,7 @@
-## Traditionally
+## Traditional
 
-### Waterfall
-
-Infrequent large changes
-
-* Higher risk of unintended impact
-* More complex to debug
-* More time to production
-* Feedback at end of process
+![Worked in Dev meme](img/worked-in-dev.jpg)<!-- .element: style="border:0;background-color:inherit;margin:0" -->
 
 Note:
-Waterfall
-* traditional method of infrequent large changes.
-* thought less changes would be more stable
+* Old adage of, "It worked in dev"
+* So as an Ops person, I am very interested in doing the DevOps

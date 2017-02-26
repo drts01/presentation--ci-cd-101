@@ -1,16 +1,15 @@
 ## Traditionally
 
-### Manual processes
-(builds, tests, etc)
+### Waterfall
 
-* Inconsistent
-* Error Prone
-* Slow <!-- .element style="margin-bottom:1.28em" -->
+Infrequent large changes
+
+* Higher risk of unintended impact
+* More complex to debug
+* More time to production
+* Feedback at end of process
 
 Note:
-
-Another anti-pattern is manual processes.
-
-* cannot reliable reproduce
-* error prone
-* slower
+Waterfall
+* traditional method of infrequent large changes.
+* thought less changes would be more stable
