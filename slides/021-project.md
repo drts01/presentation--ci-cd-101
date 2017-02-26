@@ -10,7 +10,7 @@ Anything that can be represented as code.
 * Documentation
 
 <aside class="notes">
-* If we didnt have a project, there would be no point.
+* If we didn't have a project, there would be no point.
 * Applies to anything that can be represented as code.
 
 </aside>

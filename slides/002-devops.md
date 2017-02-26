@@ -18,7 +18,7 @@ improve collaboration and productivity
 * Many aspects to DevOps
  * Culture
  * Different Processes
-* CI/CD is a workflow that enables us to do the devops.
+* CI/CD is a workflow that enables us to do the DevOps.
 </aside>
 </section>
 <!-- -->

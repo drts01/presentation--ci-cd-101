@@ -20,9 +20,9 @@ Slack
 <aside class="notes">
 Popular freemium hosted chat service.
 
-* email
-* irc
-* sms
+* Email
+* IRC
+* SMS
 
 </aside>
 </section>
