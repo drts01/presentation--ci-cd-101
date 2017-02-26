@@ -19,7 +19,7 @@
 * Test Driven Infrastructure
   * where I learned CI/CD
   * DevOps Day L.A. / SCaLE 14x
-* Currently work at VDMS / Edgecast
+* Currently work at VDMS / EdgeCast
 </aside>
 </section>
 <!-- -->

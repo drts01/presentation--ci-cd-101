@@ -1,7 +1,8 @@
 DIGITALR00TS/1
 digitalr00ts/1
 Meza
-Edgecast
+EdgeCast
+Verizon
 VDMS
 SCaLE
 
@@ -22,6 +23,7 @@ freemium/1
 refactoring
 successfulness
 workflow
+workflows
 
 lorem
 ipsum
@@ -46,10 +48,13 @@ scss
 gitignore
 travis
 Gemfile
+Hunspell
+hunspell
 Bundler
 gh
 repo
-sms
+SMS
+IRC
 octocat
 auth
 config
@@ -76,7 +81,9 @@ cp
 cd
 whoami/1
 
-github/1
+GitHub
+GitLab
+Bitbucket
 init
 
 Buildbot

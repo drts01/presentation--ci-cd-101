@@ -10,7 +10,7 @@
 
 <aside class="notes">
 
-* Welcome "How to DevOp"
+* Welcome "How to DevOps"
 * specifically an introduction to
 * continuous integration, delivery, deployment
 * demonstrate
