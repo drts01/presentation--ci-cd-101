@@ -1,3 +1,13 @@
+1. show http://digitalr00ts-demo.gitlab.io/ci-jekyll/
+1. open tabs
+ * http://digitalr00ts-demo.gitlab.io/ci-jekyll/
+ * https://my.edgecast.com/HTTPLarge/PurgeLoad
+ * https://gitlab.com/DIGITALR00TS-Demo/ci-jekyll/blob/master/.gitlab-ci.yml
+ * last build pipeline
+ * pr jobs
+1. merge pr
+1. go over pr tests
+1. check merge tests and go over
 
 1. Fork Beautiful Jekyll<br/>http://deanattali.com/beautiful-jekyll/getstarted/
   * http://<user>.github.io/<project>
