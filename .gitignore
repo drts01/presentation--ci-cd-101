@@ -13,3 +13,4 @@ css/reveal.min.css
 js/reveal.min.js
 *.swp
 npm-debug.log
+.spellcheck.log

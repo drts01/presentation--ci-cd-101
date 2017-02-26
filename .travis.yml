@@ -1,6 +1,7 @@
 language: node_js
 node_js:
 - 4.6.0
+- 6.10.0
 env:
 - CXX=g++-4.8
 addons:
@@ -9,7 +10,10 @@ addons:
     - ubuntu-toolchain-r-test
     packages:
     - g++-4.8
+    - hunspell
+#    - libhunspell-dev
 before_script:
+- hunspell -u3 -d en_US -p dictionary.dic -H slides/* | tee .spellcheck.log; test ! -s .spellcheck.log
 - npm install -g grunt-cli
 notifications:
   slack:

@@ -1,7 +1,7 @@
 DIGITALR00TS/1
 digitalr00ts/1
 Meza
-Edgecast
+EdgeCast
 VDMS
 SCaLE
 
@@ -22,6 +22,7 @@ freemium/1
 refactoring
 successfulness
 workflow
+workflows
 
 lorem
 ipsum
@@ -77,6 +78,8 @@ cd
 whoami/1
 
 github/1
+GitLab
+Bitbucket
 init
 
 Buildbot
