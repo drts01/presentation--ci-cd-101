@@ -1,8 +1,6 @@
 ## Traditionally
 
-### Waterfall
-
-Infrequent large changes
+### Infrequent large changes
 
 * Higher risk of unintended impact
 * More complex to debug
