@@ -2,24 +2,18 @@
 
 # How-to DevOps
 
-<section>
-
 <div style="height:11em; display:block"> </div>
 
 ## An introduction to CI/CD
 
-<aside class="notes">
+Note:
 
 * Welcome "How to DevOps"
-* specifically an introduction to
+* specifically an high-level view of
 * continuous integration, delivery, deployment
 * demonstrate
  * not just large teams/projects
- * applies to personal projects
+ * can help anyone produce better code faster.
 
 But, what is DevOps?
-
-</aside>
-</section>
-<!-- -->
 
