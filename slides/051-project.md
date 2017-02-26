@@ -1,5 +1,3 @@
-## Components
-
 ### Project Code
 
 Code can represent:

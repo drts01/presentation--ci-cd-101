@@ -1,5 +1,3 @@
-## Components
-
 ### Tests
 
 Verification of code

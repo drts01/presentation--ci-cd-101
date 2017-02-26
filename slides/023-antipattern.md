@@ -1,5 +1,3 @@
-## Traditionally
-
 ### Infrequent large changes
 
 * Higher risk of unintended impact

@@ -1,8 +1,8 @@
-<!-- .slide: data-background-image="img/welcome.png" data-background-size="contain" data-background-position="center" data-background-transition="fade" -->
+<!-- .slide: data-background-image="img/welcome.png" data-background-size="80% auto" data-background-position="center" data-background-transition="fade" -->
 
 # How-to DevOps
 
-<div style="height:11em; display:block"> </div>
+![](img/welcome.png)<!-- .element style="visibility:hidden" -->
 
 ## An introduction to CI/CD
 

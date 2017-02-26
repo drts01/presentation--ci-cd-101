@@ -1,5 +1,3 @@
-## Components
-
 ### Notifications
 
 Provides feedback on successfulness of<br/>tests, builds, and deployments.

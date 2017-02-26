@@ -1,5 +1,3 @@
-## Traditionally
-
 ### Manual processes
 (builds, tests, etc)
 

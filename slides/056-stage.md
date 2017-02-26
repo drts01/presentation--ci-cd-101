@@ -1,5 +1,3 @@
-## Components
-
 ### Staging Environment
 
 Delivers a release to a pre-production environment.

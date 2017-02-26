@@ -1,5 +1,3 @@
-## Components
-
 ### Notifications
 
 ![slack logo](img/slack.svg) <!-- .element: style="height:4.75em;background-color:inherit;border:0" -->
