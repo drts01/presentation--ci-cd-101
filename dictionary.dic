@@ -2,6 +2,7 @@ DIGITALR00TS/1
 digitalr00ts/1
 Meza
 EdgeCast
+Verizon
 VDMS
 SCaLE
 
@@ -47,10 +48,13 @@ scss
 gitignore
 travis
 Gemfile
+Hunspell
+hunspell
 Bundler
 gh
 repo
-sms
+SMS
+IRC
 octocat
 auth
 config
@@ -77,7 +81,7 @@ cp
 cd
 whoami/1
 
-github/1
+GitHub
 GitLab
 Bitbucket
 init
