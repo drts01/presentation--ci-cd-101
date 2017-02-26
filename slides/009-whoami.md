@@ -10,3 +10,4 @@
 Note:
 * EdgeCast/VDMS
 * Salt, Chef - started doing CI/CD
+* Twitter - slides

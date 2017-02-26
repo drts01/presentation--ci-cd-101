@@ -5,6 +5,6 @@
 * Demo!
 
 Note:
-* What and Why
-* How and parts of workflow
-* Demo!
+* whats and whys
+* parts and how to put together
+* example
