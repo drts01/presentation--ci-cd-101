@@ -2,9 +2,10 @@
 
 * Modular, less complex code
 * Integration is easier
-* Ability to adjust
+* Easier to respond to changing demands
 
 Note:
 * small code chunks are more manageable
 * frequent merging of small code is easier
-* more flexibility changes in implantation, priorities, etc
+* more able to adjust changes in implantation, priorities, etc
+
