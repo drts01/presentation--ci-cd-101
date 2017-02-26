@@ -46,3 +46,5 @@ Documentation to help get started.
 * https://www.agilealliance.org/glossary/continuous-integration/
 * https://aws.amazon.com/devops/continuous-integration/
 -->
+<!-- https://www.atlassian.com/git/tutorials/what-is-version-control -->
+<!-- https://git-scm.com/video/what-is-version-control -->
