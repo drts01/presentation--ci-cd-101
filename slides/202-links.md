@@ -8,4 +8,4 @@ https://www.atlassian.com/git/tutorials/what-is-version-control <!-- .element: s
 https://services.github.com/resources/index.html<!-- .element: style="font-size:.75em;vertical-align:top;line-height:.5em" -->
 
 Note:
-Resources that help me explain
+Version control and Git

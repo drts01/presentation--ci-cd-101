@@ -1,11 +1,9 @@
 ### Infrequent large changes
 
-* Higher risk of unintended impact
+* Higher risk
 * More complex to debug
 * More time to production
-* Feedback at end of process
+* Late feedback on impact
 
 Note:
-Waterfall
-* traditional method of infrequent large changes.
-* thought less changes would be more stable
+* thought to be safer to let changes accumulate and touch production less frequently

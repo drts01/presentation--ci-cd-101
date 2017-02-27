@@ -8,4 +8,4 @@
 http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/ <!-- .element: style="font-size:.75em;vertical-align:top;line-height:.5em" -->
 
 Note:
-Resources that help me explain
+Definition and concepts

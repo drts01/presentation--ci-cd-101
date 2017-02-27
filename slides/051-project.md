@@ -7,5 +7,6 @@ Code can represent:
 * Documentation
 
 Note:
-* If we didn't have a project, there would be no point.
-* Applies to anything that can be represented as code.
+
+* First, project code
+* anything that can be represented as code

@@ -6,6 +6,6 @@
 
 Note:
 * small code chunks are more manageable
-* frequent merging of small code is easier
+* frequent integration becomes easier
 * more able to adjust changes in implantation, priorities, etc
 

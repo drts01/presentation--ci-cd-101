@@ -1,10 +1,10 @@
 ### Other benefits
 
 * Reduced risk
-* Greater visibility into status and evolution
+* Greater visibility into the process
 * Faster to production
 
 Note:
 * Consistency / Less error prone ; Higher confidence in deployment
-* Changes are tracked and tested
+* Visibility into the status and evolution
 * Faster ROI

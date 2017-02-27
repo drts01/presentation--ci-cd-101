@@ -4,4 +4,6 @@
 
 Note:
 * waterfall model is a sequential (non-iterative) design process used in software development processes
+* pass down the chain w/o good communication back up
 * throw over wall
+

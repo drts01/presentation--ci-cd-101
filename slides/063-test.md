@@ -7,6 +7,6 @@
 * Hunspell
 
 Note:
-* build
-* syntax, images, links
+* check configuration sane and build
+* syntax, images exists, links
 * spell-check

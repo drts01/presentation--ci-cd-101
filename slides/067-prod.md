@@ -5,4 +5,4 @@
 EdgeCast CDN
 
 Note:
-Content delivery network
+* Content delivery network

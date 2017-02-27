@@ -3,11 +3,13 @@
 
 * Inconsistent
 * Error Prone
-* Slow <!-- .element style="margin-bottom:1.28em" -->
+* Slow
 
 Note:
 
-Another anti-pattern is manual processes.
+manual processes
+
+* builds, test, deployments
 
 * cannot reliable reproduce
 * error prone

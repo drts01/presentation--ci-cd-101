@@ -5,6 +5,6 @@
 * More agile
 
 Note:
-* Faster to production
+* Get to production faster
 * Consistent processes, testing, feedback
-* short, frequent iteration, better suited to adjust
+* short, frequent iteration, better suited to adjust changing demands

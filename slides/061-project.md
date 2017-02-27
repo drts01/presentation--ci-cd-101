@@ -5,4 +5,7 @@
 Jekyll
 
 Note:
-A popular, simple blog-aware static site generator.
+Jekyll
+* popular
+* open-source
+* static site generator

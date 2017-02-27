@@ -6,6 +6,6 @@ produce better code faster. <!-- .element: style="padding-top:.05em" -->
 ![TDD](/img/ci-tdd-icon.svg) <!-- .element: style="box-shadow:none;border:0;background-color:inherit;height:4em;margin-bottom:-3em" -->
 
 Note:
+Solution - CI CD
 * Development practice
-* consistency
-* speed
+* to produce better code faster

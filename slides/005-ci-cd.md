@@ -6,5 +6,4 @@ Continuous<br/>Integration / Delivery / Deployment
 
 Note:
 
-Practices improve software development<br/>
-that helps us do the DevOps
+Practices aims to improve software development<br/>
