@@ -7,9 +7,9 @@
 
 Note:
 
-manual processes
+manual processes<br />
+builds, test, deployments
 
-* builds, test, deployments
 
 * cannot reliable reproduce
 * error prone
