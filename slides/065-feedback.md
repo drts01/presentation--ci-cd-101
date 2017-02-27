@@ -1,6 +1,6 @@
 ### Notifications
 
-![slack logo](img/slack.svg) <!-- .element: style="height:4.75em;background-color:inherit;border:0" -->
+![slack logo](img/slack.svg) <!-- .element: style="box-shadow:none;height:4.75em;background-color:inherit;border:0" -->
 
 Slack
 

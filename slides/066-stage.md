@@ -1,6 +1,6 @@
 ### Staging Environment
 
-![GitLab logo](https://about.gitlab.com/images/downloads/logo.svg) <!-- .element: style="height:5em;;background-color:inherit;border:0" -->
+![GitLab logo](img/gitlab.svg) <!-- .element: style="box-shadow:none;height:5em;;background-color:inherit;border:0" -->
 
 GitLab Pages
 

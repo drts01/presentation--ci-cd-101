@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="600" width="800" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<marker id="c" refY="0.0" refX="0.0" overflow="visible" orient="auto">
+<path d="m0 0l5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="scale(.8) rotate(180) translate(12.5)" stroke="#e6e6e6" stroke-width="1pt" fill="#e6e6e6"/>
+</marker>
+<filter id="d" height="1.2834" width="1.1194" y="-.14170" x="-.059692">
+<feGaussianBlur stdDeviation="5.4678548"/>
+</filter>
+</defs>
+<g transform="translate(-98.931 -62.813)">
+<use xlink:href="#a" transform="translate(120 120.07)" height="744.09448" width="1052.3622" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(.99965 0 0 1 360.09 360.2)" height="744.09448" width="1052.3622" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(.99973 0 0 .99962 240.07 240.45)" height="744.09448" width="1052.3622" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(.99965 0 0 .99962 480.09 480.58)" height="744.09448" width="1052.3622" y="0" x="0"/>
+<g>
+<rect id="a" transform="matrix(1.0989 0 0 .87340 3.4078 35.3)" height="91.608" filter="url(#d)" width="218.84" stroke="#000" stroke-linecap="round" y="60.094" x="124" fill="#1f1f1f"/>
+<rect height="80.477" width="240.5" stroke="#000" stroke-linecap="round" y="83.55" x="139.67" stroke-width="1.4739" fill="#ff8080"/>
+<text style="writing-mode:lr;text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" transform="scale(.84064 1.1896)" font-size="33.644px" y="113.34335" x="308.37183" font-family="Sans" line-height="125%" fill="#000000"><tspan x="308.37183" y="113.34335">Requirements</tspan></text>
+<rect height="80.007" width="240.39" stroke="#000" stroke-linecap="round" y="203.85" x="259.73" stroke-width="1.4692" fill="#b69fef"/>
+<text style="text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" transform="scale(.86397 1.1574)" font-size="34.578px" y="220.22165" x="439.52603" font-family="Sans" line-height="125%" fill="#000000"><tspan x="439.52603" y="220.22165">Design</tspan></text>
+<rect height="79.933" width="241.73" stroke="#000" stroke-linecap="round" y="324.23" x="379.05" stroke-width="1.4726" fill="#c5efa7"/>
+<text style="text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" transform="scale(.79977 1.2504)" font-size="32.008px" y="300.10266" x="624.88147" font-family="Sans" xml:space="preserve" fill="#000000"><tspan y="300.10266" x="624.88147">Implementation</tspan></text>
+<rect height="79.748" width="240.81" stroke="#000" stroke-linecap="round" y="444.11" x="499.51" stroke-width="1.4681" fill="#fff45a"/>
+<text style="text-anchor:middle;text-align:center" font-weight="bold" xml:space="preserve" transform="scale(.86766 1.1525)" font-size="34.725px" y="432.87918" x="715.82642" font-family="Sans" line-height="125%" fill="#000000"><tspan x="715.82642" y="432.87918">Verification</tspan></text>
+<rect height="79.749" width="239.99" stroke="#000" stroke-linecap="round" y="564.45" x="619.92" stroke-width="1.4656" fill="#00fff7"/>
+<text style="writing-mode:lr;text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" transform="scale(.84064 1.1896)" font-size="33.644px" y="520.56036" x="879.39905" font-family="Sans" xml:space="preserve" fill="#000000"><tspan y="520.56036" x="879.39905">Maintenance</tspan></text>
+</g>
+<use xlink:href="#b" transform="translate(120 120.1)" height="744.09448" width="1052.3622" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(240 240.16)" height="744.09448" width="1052.3622" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(360 360.23)" height="744.09448" width="1052.3622" y="0" x="0"/>
+<path id="b" marker-end="url(#c)" d="m380 124.09c50 0 45 20 0 80" stroke="#e6e6e6" stroke-width="1.833" fill="none"/>
+</g>
+</svg>
