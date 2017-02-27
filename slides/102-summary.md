@@ -1,4 +1,4 @@
-## Why
+## CI/CD - Why
 
 * Faster ROI
 * Higher confidence in releases
