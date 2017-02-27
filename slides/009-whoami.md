@@ -1,4 +1,4 @@
-## WHO is<br/>Carlos Meza
+## WHO is<br/>Carlos Meza <!-- .element style="line-height:1em" -->
 
 #### Systems Administrator
 * Works on the EdgeCast CDN at<br/>Verizon Digital Media Services
