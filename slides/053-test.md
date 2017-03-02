@@ -6,6 +6,8 @@ Verification of code
 * Integration
 * System
 
+![Pipeline - Tests](img/pipeline-tests.svg) <!-- .element: style="border:0;background-color:inherit;margin-top:0;box-shadow:none;height:3em" -->
+
 Note:
 
 * Automation needs testing
