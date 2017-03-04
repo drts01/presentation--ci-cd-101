@@ -7,4 +7,5 @@ Compile the project code
 
 Note:
 
-* Generate the output we hope to ship
+* Generate the product
+* hope to ship

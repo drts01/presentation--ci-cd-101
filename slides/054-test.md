@@ -11,8 +11,7 @@ Verification of code
 Note:
 
 * Automation needs testing
-* Many categories of tests
-* we are not going into details of the types
+* Many categories/types
 
 
 * Unit - checks the feature being working on

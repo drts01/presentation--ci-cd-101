@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="128" width="208" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 208 128">
+<rect style="stroke:#000;stroke-width:10;fill:#ccc" ry="10" height="118" width="198" y="5" x="5"/>
+<path d="m30 98v-68h20l20 25 20-25h20v68h-20v-39l-20 25-20-25v39z"/>
+<path d="m155 98-30-33h20v-35h20v35h20z"/>
+</svg>

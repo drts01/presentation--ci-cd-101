@@ -9,11 +9,9 @@
 Note:
 
 * Welcome "How to DevOps"
-* specifically an high-level view of
+* high-level overview
 * continuous integration, delivery, deployment
-* demonstrate
- * not just large teams/projects
- * can help anyone produce better code faster.
+* applicable for all projects
 
 But, what is DevOps?
 

@@ -4,4 +4,4 @@
 
 Note:
 * Old adage of, "It worked in Dev"
-* So as an Ops person, I am very interested in doing the DevOps
+* So as Ops, I am interested in doing the DevOps

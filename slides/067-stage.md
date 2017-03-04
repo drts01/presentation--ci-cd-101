@@ -5,4 +5,4 @@
 GitLab Pages
 
 Note:
-Host your static websites on GitLab.com
+Host static websites on GitLab.com

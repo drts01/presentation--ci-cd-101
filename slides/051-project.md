@@ -10,5 +10,4 @@ Code can represent:
 
 Note:
 
-* First, project code
 * anything that can be represented as code

@@ -7,5 +7,6 @@
 Note:
 * easier to debug and manage
 * frequent integration becomes easier
-* more able to adjust changes in implantation, priorities, etc
+* more able to adjust changes
+ * implantation, priorities, etc
 

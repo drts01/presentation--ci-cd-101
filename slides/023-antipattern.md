@@ -6,4 +6,5 @@
 * Late feedback on impact
 
 Note:
-* thought to be safer to let changes accumulate and touch production less frequently
+* Thought to be safer not to touch production often
+* changes accumulate

@@ -6,4 +6,4 @@ Continuous<br/>Integration / Delivery / Deployment
 
 Note:
 
-Practices aims to improve software development<br/>
+Practice to improve software development

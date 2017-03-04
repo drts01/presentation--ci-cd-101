@@ -5,6 +5,7 @@
 * Faster to production
 
 Note:
-* Consistency / Less error prone ; Higher confidence in deployment
+* Consistency / Less error prone
+* Higher confidence in deployment
 * Visibility into the status and evolution
 * Faster ROI

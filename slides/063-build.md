@@ -5,4 +5,4 @@
 Jekyll
 
 Note:
-* Jekyll is what actually generates our site
+* Jekyll generates our site
