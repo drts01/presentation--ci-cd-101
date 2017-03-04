@@ -1,10 +1,10 @@
 ## Objectives
 
-* Concepts (What & Why)
+* High-level Overview (What & Why)
 * Components (How)
 * Demo!
 
 Note:
-* whats and whys
+* high-level, whats and whys
 * parts and how to put together
-* example
+* light-weight example
